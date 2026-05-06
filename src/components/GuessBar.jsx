@@ -2,7 +2,7 @@ import { useState, useRef, useEffect } from 'react'
 import Fuse from 'fuse.js'
 import { paintings } from '../data/paintings'
 
-export default function GuessBar({ onGuess, onSkip, disabled, eliminatedIds = [] }) {
+export default function GuessBar({ onGuess, onSkip, disabled }) {
   const [inputValue, setInputValue] = useState('')
   const [results, setResults] = useState([])
   const [selectedPainting, setSelectedPainting] = useState(null)
@@ -10,9 +10,7 @@ export default function GuessBar({ onGuess, onSkip, disabled, eliminatedIds = []
   const inputRef = useRef(null)
   const dropdownRef = useRef(null)
 
-  const availablePaintings = paintings.filter(p => !eliminatedIds.includes(p.id))
-
-  const fuse = new Fuse(availablePaintings, {
+  const fuse = new Fuse(paintings, {
     keys: ['title', 'artist'],
     threshold: 0.4,
     includeScore: true,

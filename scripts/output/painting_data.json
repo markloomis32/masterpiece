@@ -1,0 +1,1289 @@
+[
+  {
+    "wikidataId": "Q12418",
+    "title": "Mona Lisa",
+    "artist": "Leonardo da Vinci",
+    "year": 1503,
+    "museum": "Salle des États, Louvre",
+    "museumUrl": "https://www.wikidata.org/wiki/Q12418",
+    "imageFilename": "Mona Lisa, by Leonardo da Vinci, from C2RMF natural color.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_natural_color.jpg",
+    "imageUrl": "/images/wiki_Q12418.jpg",
+    "dominantColors": [
+      "#332f21",
+      "#bc9070",
+      "#7a5a40",
+      "#848b9a",
+      "#909fab"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: L.D.V."
+    }
+  },
+  {
+    "wikidataId": "Q45585",
+    "title": "The Starry Night",
+    "artist": "Vincent van Gogh",
+    "year": 1889,
+    "museum": "Museum of Modern Art",
+    "museumUrl": "https://www.wikidata.org/wiki/Q45585",
+    "imageFilename": "Van Gogh - Starry Night - Google Art Project.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+    "imageUrl": "/images/wiki_Q45585.jpg",
+    "dominantColors": [],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: V.V.G."
+    }
+  },
+  {
+    "wikidataId": "Q185372",
+    "title": "Girl with a Pearl Earring",
+    "artist": "Johannes Vermeer",
+    "year": 1665,
+    "museum": "Mauritshuis",
+    "museumUrl": "https://www.wikidata.org/wiki/Q185372",
+    "imageFilename": "1665 Girl with a Pearl Earring.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/1665_Girl_with_a_Pearl_Earring.jpg",
+    "imageUrl": "/images/wiki_Q185372.jpg",
+    "dominantColors": [
+      "#2a251a",
+      "#c3aa8a",
+      "#78674c",
+      "#89a0af",
+      "#678196"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: J.V."
+    }
+  },
+  {
+    "wikidataId": "Q151047",
+    "title": "The Birth of Venus",
+    "artist": "Sandro Botticelli",
+    "year": 1480,
+    "museum": "Uffizi Gallery - Room 11-12, Botticelli's, Florence, Italy",
+    "museumUrl": "https://www.wikidata.org/wiki/Q151047",
+    "imageFilename": "Sandro Botticelli - La nascita di Venere - Google Art Project - edited.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+    "imageUrl": "/images/wiki_Q151047.jpg",
+    "dominantColors": [],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: S.B."
+    }
+  },
+  {
+    "wikidataId": "Q18891156",
+    "title": "The Scream",
+    "artist": "Edvard Munch",
+    "year": 1893,
+    "museum": "National Gallery of Norway",
+    "museumUrl": "https://www.wikidata.org/wiki/Q18891156",
+    "imageFilename": "The Scream.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Scream.jpg",
+    "imageUrl": "/images/wiki_Q18891156.jpg",
+    "dominantColors": [
+      "#3d4032",
+      "#cd7035",
+      "#9c6e45",
+      "#a5a779",
+      "#698f96"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: E.M."
+    }
+  },
+  {
+    "wikidataId": "Q252485",
+    "title": "The Great Wave off Kanagawa",
+    "artist": "Katsushika Hokusai",
+    "year": 1900,
+    "museum": "Tokyo National Museum",
+    "museumUrl": "https://www.wikidata.org/wiki/Q252485",
+    "imageFilename": "Katsushika Hokusai - The Great Wave off the Coast of Kanagawa LCCN2008660568.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Katsushika_Hokusai_-_The_Great_Wave_off_the_Coast_of_Kanagawa_LCCN2008660568.jpg",
+    "imageUrl": "/images/wiki_Q252485.jpg",
+    "dominantColors": [
+      "#bfc5b1",
+      "#223750",
+      "#a79664",
+      "#8e7d46",
+      "#655a3f"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: K.H."
+    }
+  },
+  {
+    "wikidataId": "Q128910",
+    "title": "The Last Supper",
+    "artist": "Leonardo da Vinci",
+    "year": 1490,
+    "museum": "Santa Maria delle Grazie",
+    "museumUrl": "https://www.wikidata.org/wiki/Q128910",
+    "imageFilename": "Leonardo da Vinci (1452-1519) - The Last Supper (1495-1498).jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Leonardo_da_Vinci_%281452-1519%29_-_The_Last_Supper_%281495-1498%29.jpg",
+    "imageUrl": "/images/wiki_Q128910.jpg",
+    "dominantColors": [
+      "#726049",
+      "#cec2ab",
+      "#1f140b",
+      "#b0b6ae",
+      "#9ca3a9"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: L.D.V."
+    }
+  },
+  {
+    "wikidataId": "Q219831",
+    "title": "The Night Watch",
+    "artist": "Rembrandt",
+    "year": 1642,
+    "museum": "Kloveniersdoelen",
+    "museumUrl": "https://www.wikidata.org/wiki/Q219831",
+    "imageFilename": "La ronda de noche, por Rembrandt van Rijn.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg",
+    "imageUrl": "/images/wiki_Q219831.jpg",
+    "dominantColors": [
+      "#21180a",
+      "#b38a48",
+      "#704b1d",
+      "#829c79",
+      "#8b8c8c"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: R."
+    }
+  },
+  {
+    "wikidataId": "Q208758",
+    "title": "Las Meninas",
+    "artist": "Diego Velázquez",
+    "year": 1656,
+    "museum": "Museo del Prado",
+    "museumUrl": "https://www.wikidata.org/wiki/Q208758",
+    "imageFilename": "Las Meninas, by Diego Velázquez, from Prado in Google Earth.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg",
+    "imageUrl": "/images/wiki_Q208758.jpg",
+    "dominantColors": [],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: D.V."
+    }
+  },
+  {
+    "wikidataId": "Q175036",
+    "title": "Guernica",
+    "artist": "Pablo Picasso",
+    "year": 1937,
+    "museum": "Museo Nacional Centro de Arte Reina Sofía",
+    "museumUrl": "https://www.wikidata.org/wiki/Q175036",
+    "imageFilename": "Mural del \"Guernica\" de Picasso.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Mural_del_%22Guernica%22_de_Picasso.jpg",
+    "imageUrl": "/images/wiki_Q175036.jpg",
+    "dominantColors": [
+      "#7c7578",
+      "#272731",
+      "#e1e1e3",
+      "#453b41",
+      "#4a443b"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: P.P."
+    }
+  },
+  {
+    "wikidataId": "Q464782",
+    "title": "American Gothic",
+    "artist": "Grant Wood",
+    "year": 1930,
+    "museum": "Art Institute of Chicago",
+    "museumUrl": "https://www.wikidata.org/wiki/Q464782",
+    "imageFilename": "Grant Wood - American Gothic (1930).jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Grant_Wood_-_American_Gothic_%281930%29.jpg",
+    "imageUrl": "/images/wiki_Q464782.jpg",
+    "dominantColors": [
+      "#342d22",
+      "#c4b08c",
+      "#9fafa1",
+      "#8e7250",
+      "#788a8e"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: G.W."
+    }
+  },
+  {
+    "wikidataId": "Q698487",
+    "title": "The Kiss",
+    "artist": "Gustav Klimt",
+    "year": 1907,
+    "museum": "Belvedere",
+    "museumUrl": "https://www.wikidata.org/wiki/Q698487",
+    "imageFilename": "The Kiss - Gustav Klimt - Google Cultural Institute.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg",
+    "imageUrl": "/images/wiki_Q698487.jpg",
+    "dominantColors": [
+      "#968549",
+      "#373930",
+      "#9a92ae",
+      "#dfca6a",
+      "#533a1e"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: G.K."
+    }
+  },
+  {
+    "wikidataId": "Q687182",
+    "title": "Whistler's Mother",
+    "artist": "James McNeill Whistler",
+    "year": 1871,
+    "museum": "Musée d'Orsay",
+    "museumUrl": "https://www.wikidata.org/wiki/Q687182",
+    "imageFilename": "Whistlers Mother high res.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Whistlers_Mother_high_res.jpg",
+    "imageUrl": "/images/wiki_Q687182.jpg",
+    "dominantColors": [
+      "#363427",
+      "#c1b9ac",
+      "#807e6d",
+      "#99989c",
+      "#9ba491"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: J.M.W."
+    }
+  },
+  {
+    "wikidataId": "Q29530",
+    "title": "Liberty Leading the People",
+    "artist": "Eugène Delacroix",
+    "year": 1830,
+    "museum": "Room 700",
+    "museumUrl": "https://www.wikidata.org/wiki/Q29530",
+    "imageFilename": "La Liberté guidant le peuple - Eugène Delacroix - Musée du Louvre Peintures RF 129 - après restauration 2024.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg",
+    "imageUrl": "/images/wiki_Q29530.jpg",
+    "dominantColors": [
+      "#3d3735",
+      "#cac0bd",
+      "#788cab",
+      "#9aa9b8",
+      "#8d8078"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: E.D."
+    }
+  },
+  {
+    "wikidataId": "Q1044742",
+    "title": "A Sunday Afternoon on the Island of La Grande Jatte",
+    "artist": "Georges Seurat",
+    "year": 1884,
+    "museum": "Art Institute of Chicago",
+    "museumUrl": "https://www.wikidata.org/wiki/Q1044742",
+    "imageFilename": "A Sunday on La Grande Jatte, Georges Seurat, 1884.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg",
+    "imageUrl": "/images/wiki_Q1044742.jpg",
+    "dominantColors": [],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: G.S."
+    }
+  },
+  {
+    "wikidataId": "Q311243",
+    "title": "Wanderer above the Sea of Fog",
+    "artist": "Caspar David Friedrich",
+    "year": 1818,
+    "museum": "Hamburger Kunsthalle",
+    "museumUrl": "https://www.wikidata.org/wiki/Q311243",
+    "imageFilename": "Friedrich, Caspar David - Wanderer über dem Nebelmeer.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%2C_Caspar_David_-_Wanderer_%C3%BCber_dem_Nebelmeer.jpg",
+    "imageUrl": "/images/wiki_Q311243.jpg",
+    "dominantColors": [
+      "#a6a7af",
+      "#2a241a",
+      "#4a4030",
+      "#62696e",
+      "#5f5943"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: C.D.F."
+    }
+  },
+  {
+    "wikidataId": "Q220859",
+    "title": "Arnolfini Portrait",
+    "artist": "Jan van Eyck",
+    "year": 1434,
+    "museum": "National Gallery",
+    "museumUrl": "https://www.wikidata.org/wiki/Q220859",
+    "imageFilename": "Van Eyck - Arnolfini Portrait.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Van_Eyck_-_Arnolfini_Portrait.jpg",
+    "imageUrl": "/images/wiki_Q220859.jpg",
+    "dominantColors": [
+      "#2d2719",
+      "#745841",
+      "#a6937d",
+      "#939486",
+      "#8a8a85"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: J.V.E."
+    }
+  },
+  {
+    "wikidataId": "Q321303",
+    "title": "The Garden of Earthly Delights",
+    "artist": "Hieronymus Bosch",
+    "year": 1490,
+    "museum": "Museo del Prado",
+    "museumUrl": "https://www.wikidata.org/wiki/Q321303",
+    "imageFilename": "Jheronimus Bosch 023.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Jheronimus_Bosch_023.jpg",
+    "imageUrl": "/images/wiki_Q321303.jpg",
+    "dominantColors": [
+      "#736c42",
+      "#c6b998",
+      "#171a14",
+      "#aeb69e",
+      "#88a2a1"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: H.B."
+    }
+  },
+  {
+    "wikidataId": "Q83872",
+    "title": "Nighthawks",
+    "artist": "Edward Hopper",
+    "year": 1942,
+    "museum": "Art Institute of Chicago",
+    "museumUrl": "https://www.wikidata.org/wiki/Q83872",
+    "imageFilename": "Nighthawks by Edward Hopper 1942.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Nighthawks_by_Edward_Hopper_1942.jpg",
+    "imageUrl": "/images/wiki_Q83872.jpg",
+    "dominantColors": [
+      "#2b322c",
+      "#d9ce7b",
+      "#6b6e51",
+      "#739e79",
+      "#6a8f8d"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: E.H."
+    }
+  },
+  {
+    "wikidataId": "Q1245354",
+    "title": "A Bar at the Folies-Bergère",
+    "artist": "Édouard Manet",
+    "year": 1882,
+    "museum": "Courtauld Gallery",
+    "museumUrl": "https://www.wikidata.org/wiki/Q1245354",
+    "imageFilename": "Un bar aux Folies-Bergère d'E. Manet (Fondation Vuitton, Paris) (33539037428).jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Un_bar_aux_Folies-Berg%C3%A8re_d%27E._Manet_%28Fondation_Vuitton%2C_Paris%29_%2833539037428%29.jpg",
+    "imageUrl": "/images/wiki_Q1245354.jpg",
+    "dominantColors": [
+      "#3e3936",
+      "#ccb9a2",
+      "#95897a",
+      "#a0a0a6",
+      "#abaca6"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: É.M."
+    }
+  },
+  {
+    "wikidataId": "Q212616",
+    "title": "The Raft of the Medusa",
+    "artist": "Théodore Géricault",
+    "year": 1818,
+    "museum": "Room 700",
+    "museumUrl": "https://www.wikidata.org/wiki/Q212616",
+    "imageFilename": "JEAN LOUIS THÉODORE GÉRICAULT - La Balsa de la Medusa (Museo del Louvre, 1818-19).jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg",
+    "imageUrl": "/images/wiki_Q212616.jpg",
+    "dominantColors": [
+      "#372b21",
+      "#c2a386",
+      "#846c56",
+      "#9b9c8f",
+      "#938e98"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: T.G."
+    }
+  },
+  {
+    "wikidataId": "Q2366825",
+    "title": "The Hay Wain",
+    "artist": "John Constable",
+    "year": 1821,
+    "museum": "National Gallery",
+    "museumUrl": "https://www.wikidata.org/wiki/Q2366825",
+    "imageFilename": "John Constable - The Hay Wain (1821).jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Constable_-_The_Hay_Wain_%281821%29.jpg",
+    "imageUrl": "/images/wiki_Q2366825.jpg",
+    "dominantColors": [
+      "#393022",
+      "#c1bdb1",
+      "#87919f",
+      "#83795f",
+      "#9ea7a9"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: J.C."
+    }
+  },
+  {
+    "wikidataId": "Q186953",
+    "title": "The School of Athens",
+    "artist": "Raphael",
+    "year": 1512,
+    "museum": "Apostolic Palace",
+    "museumUrl": "https://www.wikidata.org/wiki/Q186953",
+    "imageFilename": "\"The School of Athens\" by Raffaello Sanzio da Urbino.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg",
+    "imageUrl": "/images/wiki_Q186953.jpg",
+    "dominantColors": [
+      "#958467",
+      "#231811",
+      "#e4e0ca",
+      "#583619",
+      "#dcd2ab"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: R."
+    }
+  },
+  {
+    "wikidataId": "Q1189907",
+    "title": "Water Lilies",
+    "artist": "Claude Monet",
+    "year": 1914,
+    "museum": "France",
+    "museumUrl": "https://www.wikidata.org/wiki/Q1189907",
+    "imageFilename": "Claude Monet Seerosen um 1915 Neue Pinakothek-4.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude_Monet_Seerosen_um_1915_Neue_Pinakothek-4.jpg",
+    "imageUrl": "/images/wiki_Q1189907.jpg",
+    "dominantColors": [
+      "#727366",
+      "#9ba0b0",
+      "#da9778",
+      "#d4c1a7",
+      "#553831"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: C.M."
+    }
+  },
+  {
+    "wikidataId": "Q110819859",
+    "title": "Washington Crossing the Delaware",
+    "artist": "Emanuel Leutze",
+    "year": 1850,
+    "museum": "Kunsthalle Bremen",
+    "museumUrl": "https://www.wikidata.org/wiki/Q110819859",
+    "imageFilename": "Übergang Washingtons über den Delaware.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%9Cbergang_Washingtons_%C3%BCber_den_Delaware.jpg",
+    "imageUrl": "/images/wiki_Q110819859.jpg",
+    "dominantColors": [
+      "#d1d1d1",
+      "#333333",
+      "#5c5c5c",
+      "#7f7f7f",
+      "#6c6c6c"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: E.L."
+    }
+  },
+  {
+    "wikidataId": "Q523974",
+    "title": "View of Delft",
+    "artist": "Johannes Vermeer",
+    "year": 1661,
+    "museum": "Mauritshuis",
+    "museumUrl": "https://www.wikidata.org/wiki/Q523974",
+    "imageFilename": "Johannes Vermeer - View of Delft - 92 - Mauritshuis.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg",
+    "imageUrl": "/images/wiki_Q523974.jpg",
+    "dominantColors": [
+      "#ccc8bf",
+      "#3e362f",
+      "#694f3f",
+      "#837c6f",
+      "#866c53"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: J.V."
+    }
+  },
+  {
+    "wikidataId": "Q500242",
+    "title": "The Creation of Adam",
+    "artist": "Michelangelo",
+    "year": 1511,
+    "museum": "Sistine Chapel",
+    "museumUrl": "https://www.wikidata.org/wiki/Q500242",
+    "imageFilename": "The Creation of Adam perspective fix.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Creation_of_Adam_perspective_fix.jpg",
+    "imageUrl": "/images/wiki_Q500242.jpg",
+    "dominantColors": [
+      "#d0c5af",
+      "#433320",
+      "#66482b",
+      "#80693c",
+      "#9f8b63"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: M."
+    }
+  },
+  {
+    "wikidataId": "Q1752990",
+    "title": "The Death of Socrates",
+    "artist": "Jacques-Louis David",
+    "year": 1787,
+    "museum": "Metropolitan Museum of Art",
+    "museumUrl": "https://www.wikidata.org/wiki/Q1752990",
+    "imageFilename": "The Death of Socrates MET DP-13139-001.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Death_of_Socrates_MET_DP-13139-001.jpg",
+    "imageUrl": "/images/wiki_Q1752990.jpg",
+    "dominantColors": [
+      "#261f16",
+      "#6c4c30",
+      "#9d7d53",
+      "#8b8466",
+      "#88787c"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: J.D."
+    }
+  },
+  {
+    "wikidataId": "Q18689458",
+    "title": "Wheat Field with Cypresses",
+    "artist": "Vincent van Gogh",
+    "year": 1889,
+    "museum": "Metropolitan Museum of Art",
+    "museumUrl": "https://www.wikidata.org/wiki/Q18689458",
+    "imageFilename": "Vincent van Gogh - Wheat Field with Cypresses - Google Art Project.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent_van_Gogh_-_Wheat_Field_with_Cypresses_-_Google_Art_Project.jpg",
+    "imageUrl": "/images/wiki_Q18689458.jpg",
+    "dominantColors": [
+      "#b7c2c3",
+      "#1a3525",
+      "#977e23",
+      "#668ea2",
+      "#68400d"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: V.V.G."
+    }
+  },
+  {
+    "wikidataId": "Q167605",
+    "title": "The Milkmaid",
+    "artist": "Johannes Vermeer",
+    "year": 1660,
+    "museum": "Gallery of Honour",
+    "museumUrl": "https://www.wikidata.org/wiki/Q167605",
+    "imageFilename": "Johannes Vermeer - Het melkmeisje - Google Art Project.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg",
+    "imageUrl": "/images/wiki_Q167605.jpg",
+    "dominantColors": [
+      "#d0c6b0",
+      "#332c26",
+      "#a6a18b",
+      "#90775c",
+      "#4c77a3"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: J.V."
+    }
+  },
+  {
+    "wikidataId": "Q699091",
+    "title": "The Tower of Babel",
+    "artist": "Pieter Brueghel the Elder",
+    "year": 1563,
+    "museum": "Unknown Collection",
+    "museumUrl": "https://www.wikidata.org/wiki/Q699091",
+    "imageFilename": "Pieter Bruegel the Elder - The Tower of Babel (Vienna) - Google Art Project - edited.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg",
+    "imageUrl": "/images/wiki_Q699091.jpg",
+    "dominantColors": [],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: P.B.T.E."
+    }
+  },
+  {
+    "wikidataId": "Q737062",
+    "title": "Olympia",
+    "artist": "Édouard Manet",
+    "year": 1863,
+    "museum": "Luxembourg Museum",
+    "museumUrl": "https://www.wikidata.org/wiki/Q737062",
+    "imageFilename": "Edouard Manet - Olympia - Google Art Project 3.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg",
+    "imageUrl": "/images/wiki_Q737062.jpg",
+    "dominantColors": [
+      "#c1b89e",
+      "#201f1b",
+      "#543822",
+      "#6e7266",
+      "#81683d"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: É.M."
+    }
+  },
+  {
+    "wikidataId": "Q152509",
+    "title": "Le Déjeuner sur l'herbe",
+    "artist": "Édouard Manet",
+    "year": 1863,
+    "museum": "Musée d'Orsay",
+    "museumUrl": "https://www.wikidata.org/wiki/Q152509",
+    "imageFilename": "Edouard Manet - Luncheon on the Grass - Google Art Project.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg",
+    "imageUrl": "/images/wiki_Q152509.jpg",
+    "dominantColors": [
+      "#323222",
+      "#b8ad88",
+      "#7c7855",
+      "#929c90",
+      "#838f95"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: É.M."
+    }
+  },
+  {
+    "wikidataId": "Q12859951",
+    "title": "The Swing",
+    "artist": "Jean-Honoré Fragonard",
+    "year": 1775,
+    "museum": "National Gallery of Art",
+    "museumUrl": "https://www.wikidata.org/wiki/Q12859951",
+    "imageFilename": "Jean-Honoré Fragonard - The Swing - Google Art Project.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9_Fragonard_-_The_Swing_-_Google_Art_Project.jpg",
+    "imageUrl": "/images/wiki_Q12859951.jpg",
+    "dominantColors": [
+      "#8a9170",
+      "#d2d9c2",
+      "#553d19",
+      "#d6c386",
+      "#2e240e"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: J.F."
+    }
+  },
+  {
+    "wikidataId": "Q257580",
+    "title": "The Fighting Temeraire",
+    "artist": "J. M. W. Turner",
+    "year": 1839,
+    "museum": "National Gallery",
+    "museumUrl": "https://www.wikidata.org/wiki/Q257580",
+    "imageFilename": "Turner, J. M. W. - The Fighting Téméraire tugged to her last Berth to be broken.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Turner%2C_J._M._W._-_The_Fighting_T%C3%A9m%C3%A9raire_tugged_to_her_last_Berth_to_be_broken.jpg",
+    "imageUrl": "/images/wiki_Q257580.jpg",
+    "dominantColors": [
+      "#9b856f",
+      "#3a2d25",
+      "#5c3622",
+      "#e2cc9b",
+      "#cfc9be"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: J.M.W.T."
+    }
+  },
+  {
+    "wikidataId": "Q328523",
+    "title": "Impression, Sunrise",
+    "artist": "Claude Monet",
+    "year": 1872,
+    "museum": "Musée Marmottan Monet",
+    "museumUrl": "https://www.wikidata.org/wiki/Q328523",
+    "imageFilename": "Monet - Impression, Sunrise.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Monet_-_Impression%2C_Sunrise.jpg",
+    "imageUrl": "/images/wiki_Q328523.jpg",
+    "dominantColors": [
+      "#6f7163",
+      "#c19682",
+      "#20382d",
+      "#acbfb1",
+      "#a9b1b4"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: C.M."
+    }
+  },
+  {
+    "wikidataId": "Q1167907",
+    "title": "Luncheon of the Boating Party",
+    "artist": "Pierre-Auguste Renoir",
+    "year": 1880,
+    "museum": "The Phillips Collection",
+    "museumUrl": "https://www.wikidata.org/wiki/Q1167907",
+    "imageFilename": "Pierre-Auguste Renoir - Luncheon of the Boating Party - Google Art Project.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg",
+    "imageUrl": "/images/wiki_Q1167907.jpg",
+    "dominantColors": [
+      "#776252",
+      "#d5baa4",
+      "#1f2627",
+      "#b6aea8",
+      "#b7ac96"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: P.R."
+    }
+  },
+  {
+    "wikidataId": "Q354396",
+    "title": "Portrait of Adele Bloch-Bauer I",
+    "artist": "Gustav Klimt",
+    "year": 1907,
+    "museum": "Neue Galerie",
+    "museumUrl": "https://www.wikidata.org/wiki/Q354396",
+    "imageFilename": "Gustav Klimt, 1907, Adele Bloch-Bauer I, Neue Galerie New York.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustav_Klimt%2C_1907%2C_Adele_Bloch-Bauer_I%2C_Neue_Galerie_New_York.jpg",
+    "imageUrl": "/images/wiki_Q354396.jpg",
+    "dominantColors": [
+      "#836d4c",
+      "#e8ca88",
+      "#cda96d",
+      "#2f2b26",
+      "#b8b0ae"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: G.K."
+    }
+  },
+  {
+    "wikidataId": "Q1061035",
+    "title": "The Treachery of Images",
+    "artist": "René Magritte",
+    "year": 1929,
+    "museum": "Ahmanson Building",
+    "museumUrl": "https://www.wikidata.org/wiki/Q1061035",
+    "imageFilename": "Magritte treachery.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Magritte_treachery.jpg",
+    "imageUrl": "/images/wiki_Q1061035.jpg",
+    "dominantColors": [
+      "#ceb499",
+      "#3a2d29",
+      "#754c39",
+      "#875e42",
+      "#fbfbe7"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: R.M."
+    }
+  },
+  {
+    "wikidataId": "Q1368055",
+    "title": "The Gleaners",
+    "artist": "Jean-François Millet",
+    "year": 1857,
+    "museum": "Gare d'Orsay",
+    "museumUrl": "https://www.wikidata.org/wiki/Q1368055",
+    "imageFilename": "Jean-François Millet - Gleaners - Google Art Project.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project.jpg",
+    "imageUrl": "/images/wiki_Q1368055.jpg",
+    "dominantColors": [
+      "#aa9d84",
+      "#2b2326",
+      "#4b3c33",
+      "#615440",
+      "#e6d7c6"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: J.M."
+    }
+  },
+  {
+    "wikidataId": "Q1091086",
+    "title": "The Third of May 1808",
+    "artist": "Francisco Goya",
+    "year": 1814,
+    "museum": "Museo del Prado",
+    "museumUrl": "https://www.wikidata.org/wiki/Q1091086",
+    "imageFilename": "El Tres de Mayo, by Francisco de Goya, from Prado in Google Earth.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_in_Google_Earth.jpg",
+    "imageUrl": "/images/wiki_Q1091086.jpg",
+    "dominantColors": [],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: F.G."
+    }
+  },
+  {
+    "wikidataId": "Q540488",
+    "title": "A Burial at Ornans",
+    "artist": "Gustave Courbet",
+    "year": 1846,
+    "museum": "Musée d'Orsay",
+    "museumUrl": "https://www.wikidata.org/wiki/Q540488",
+    "imageFilename": "Gustave Courbet - A Burial at Ornans - Google Art Project.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustave_Courbet_-_A_Burial_at_Ornans_-_Google_Art_Project.jpg",
+    "imageUrl": "/images/wiki_Q540488.jpg",
+    "dominantColors": [
+      "#33302d",
+      "#b6ad90",
+      "#81785e",
+      "#9b9c80",
+      "#94949c"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: G.C."
+    }
+  },
+  {
+    "wikidataId": "Q661378",
+    "title": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+    "artist": "Rembrandt",
+    "year": 1632,
+    "museum": "Mauritshuis",
+    "museumUrl": "https://www.wikidata.org/wiki/Q661378",
+    "imageFilename": "Rembrandt - The Anatomy Lesson of Dr Nicolaes Tulp.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg",
+    "imageUrl": "/images/wiki_Q661378.jpg",
+    "dominantColors": [
+      "#201912",
+      "#b79f80",
+      "#715d46",
+      "#8b8a8c",
+      "#8c948a"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: R."
+    }
+  },
+  {
+    "wikidataId": "Q604761",
+    "title": "The Blue Boy",
+    "artist": "Thomas Gainsborough",
+    "year": 1770,
+    "museum": "The Huntington Library, Art Museum, and Botanical Gardens",
+    "museumUrl": "https://www.wikidata.org/wiki/Q604761",
+    "imageFilename": "Thomas Gainsborough - The Blue Boy (c. 1770).jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Gainsborough_-_The_Blue_Boy_%28c._1770%29.jpg",
+    "imageUrl": "/images/wiki_Q604761.jpg",
+    "dominantColors": [
+      "#3b3323",
+      "#bfb190",
+      "#816b41",
+      "#87afaf",
+      "#67949a"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: T.G."
+    }
+  },
+  {
+    "wikidataId": "Q883994",
+    "title": "View of Toledo",
+    "artist": "El Greco",
+    "year": 1596,
+    "museum": "Metropolitan Museum of Art",
+    "museumUrl": "https://www.wikidata.org/wiki/Q883994",
+    "imageFilename": "View of Toledo MET DP349564.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/View_of_Toledo_MET_DP349564.jpg",
+    "imageUrl": "/images/wiki_Q883994.jpg",
+    "dominantColors": [
+      "#343e36",
+      "#6e7e7a",
+      "#a4a199",
+      "#8d9b9c",
+      "#91a49f"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: E.G."
+    }
+  },
+  {
+    "wikidataId": "Q19363211",
+    "title": "Self-Portrait with Bandaged Ear",
+    "artist": "Vincent van Gogh",
+    "year": 1889,
+    "museum": "Courtauld Gallery",
+    "museumUrl": "https://www.wikidata.org/wiki/Q19363211",
+    "imageFilename": "Self-Portrait with a Bandaged Ear - Vincent van Gogh.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait_with_a_Bandaged_Ear_-_Vincent_van_Gogh.jpg",
+    "imageUrl": "/images/wiki_Q19363211.jpg",
+    "dominantColors": [
+      "#c2b78c",
+      "#2e4738",
+      "#576f61",
+      "#8e772c",
+      "#4e4539"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: V.V.G."
+    }
+  },
+  {
+    "wikidataId": "Q40432",
+    "title": "The Horse Fair",
+    "artist": "Rosa Bonheur",
+    "year": 1853,
+    "museum": "Metropolitan Museum of Art",
+    "museumUrl": "https://www.wikidata.org/wiki/Q40432",
+    "imageFilename": "Rosa Bonheur, The Horse Fair, 1852–55.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Rosa_Bonheur%2C_The_Horse_Fair%2C_1852%E2%80%9355.jpg",
+    "imageUrl": "/images/wiki_Q40432.jpg",
+    "dominantColors": [
+      "#454431",
+      "#c8ceb6",
+      "#847f61",
+      "#8a9e9e",
+      "#9cafa6"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: R.B."
+    }
+  },
+  {
+    "wikidataId": "Q19925470",
+    "title": "Snap the Whip",
+    "artist": "Winslow Homer",
+    "year": 1872,
+    "museum": "Metropolitan Museum of Art",
+    "museumUrl": "https://www.wikidata.org/wiki/Q19925470",
+    "imageFilename": "Snap the Whip 1872 Winslow Homer.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Snap_the_Whip_1872_Winslow_Homer.jpg",
+    "imageUrl": "/images/wiki_Q19925470.jpg",
+    "dominantColors": [
+      "#636036",
+      "#c3b08b",
+      "#91a497",
+      "#1e2714",
+      "#a7b49b"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: W.H."
+    }
+  },
+  {
+    "wikidataId": "Q7738501",
+    "title": "The Gulf Stream",
+    "artist": "Winslow Homer",
+    "year": 1899,
+    "museum": "Metropolitan Museum of Art",
+    "museumUrl": "https://www.wikidata.org/wiki/Q7738501",
+    "imageFilename": "Winslow Homer - The Gulf Stream - Metropolitan Museum of Art.jpg",
+    "imageUrlRemote": "https://commons.wikimedia.org/wiki/Special:FilePath/Winslow_Homer_-_The_Gulf_Stream_-_Metropolitan_Museum_of_Art.jpg",
+    "imageUrl": "/images/wiki_Q7738501.jpg",
+    "dominantColors": [
+      "#374244",
+      "#c8c7b7",
+      "#87897e",
+      "#9fafb1",
+      "#8d9ea7"
+    ],
+    "funFact": "TODO",
+    "curatorsNote": "TODO",
+    "clues": {
+      "round1": "TODO — abstract/thematic vibe",
+      "round2": "TODO — artistic style/movement",
+      "round3": "TODO — historical context",
+      "round4": "TODO — artist nationality/era",
+      "round5": "TODO — artist initials: W.H."
+    }
+  }
+]

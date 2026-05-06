@@ -1,6 +1,8 @@
 import { useState, useEffect } from 'react'
 import { useGame } from './hooks/useGame'
+import { getTestPuzzleId } from './utils/getPuzzle'
 import HowToPlayModal from './components/HowToPlayModal'
+import DifficultyScreen from './components/DifficultyScreen'
 import PaintingCanvas from './components/PaintingCanvas'
 import ClueBox from './components/ClueBox'
 import GuessBar from './components/GuessBar'
@@ -11,11 +13,10 @@ import PostGameScreen from './components/PostGameScreen'
 const HOW_TO_PLAY_KEY = 'masterpiece-seen-how-to-play'
 
 export default function App() {
-  const { state, submitGuess, skipRound, usePowerUp } = useGame()
-  const { puzzle, round, status, guesses, score, powerUps } = state
+  const { state, submitGuess, skipRound, usePowerUp, selectDifficulty } = useGame()
+  const { puzzle, difficulty, round, status, guesses, score, powerUps } = state
 
   const [showHowToPlay, setShowHowToPlay] = useState(false)
-  const [awaitingRestoration, setAwaitingRestoration] = useState(false)
 
   useEffect(() => {
     if (!localStorage.getItem(HOW_TO_PLAY_KEY)) {
@@ -28,23 +29,20 @@ export default function App() {
     setShowHowToPlay(false)
   }
 
-  const handlePowerUp = (key) => {
-    if (key === 'restoration') {
-      setAwaitingRestoration(true)
-      return
-    }
-    usePowerUp(key)
-  }
-
-  const handleRestorationClick = (spot) => {
-    usePowerUp('restoration', { spot })
-    setAwaitingRestoration(false)
-  }
-
   const isGameOver = status === 'won' || status === 'lost'
+
+  const testPuzzleId = getTestPuzzleId()
 
   return (
     <div className="min-h-screen bg-gray-950 flex flex-col">
+      {testPuzzleId && (
+        <div className="bg-amber-500 text-gray-950 text-xs font-mono text-center py-1 px-3">
+          🧪 TEST MODE — puzzle #{testPuzzleId} — progress not saved —{' '}
+          {Array.from({ length: 21 }, (_, i) => i + 1).map(n => (
+            <a key={n} href={`?puzzle=${n}`} className={`mx-0.5 underline ${n === testPuzzleId ? 'font-bold' : ''}`}>{n}</a>
+          ))}
+        </div>
+      )}
       {showHowToPlay && <HowToPlayModal onClose={handleCloseHowToPlay} />}
 
       {/* Header */}
@@ -65,49 +63,50 @@ export default function App() {
 
       {/* Main content */}
       <main className="flex-1 flex flex-col gap-4 px-4 py-4 max-w-xl mx-auto w-full pb-6">
-        <PaintingCanvas
-          puzzle={puzzle}
-          round={round}
-          status={status}
-          powerUps={powerUps}
-          onRestorationClick={handleRestorationClick}
-          awaitingRestoration={awaitingRestoration}
-        />
-
-        {!isGameOver && (
-          <RoundIndicator round={round} guesses={guesses} status={status} />
+        {!difficulty && !getTestPuzzleId() && (
+          <DifficultyScreen onSelect={selectDifficulty} />
         )}
 
-        {!isGameOver && (
-          <ClueBox puzzle={puzzle} round={round} powerUps={powerUps} />
-        )}
-
-        {!isGameOver && (
-          <GuessBar
-            onGuess={submitGuess}
-            onSkip={skipRound}
-            disabled={!puzzle || isGameOver}
-            eliminatedIds={powerUps?.eliminator?.eliminated ?? []}
-          />
-        )}
-
-        {!isGameOver && (
-          <PowerUpBar
-            powerUps={powerUps}
-            onUsePowerUp={handlePowerUp}
-            disabled={isGameOver}
-            awaitingRestoration={awaitingRestoration}
-          />
-        )}
-
-        {isGameOver && (
-          <PostGameScreen
+        {(difficulty || getTestPuzzleId()) && (<>
+          <PaintingCanvas
             puzzle={puzzle}
-            guesses={guesses}
-            score={score}
+            round={round}
             status={status}
           />
-        )}
+
+          {!isGameOver && (
+            <RoundIndicator round={round} guesses={guesses} status={status} />
+          )}
+
+          {!isGameOver && (
+            <ClueBox puzzle={puzzle} round={round} powerUps={powerUps} />
+          )}
+
+          {!isGameOver && (
+            <GuessBar
+              onGuess={submitGuess}
+              onSkip={skipRound}
+              disabled={!puzzle || isGameOver}
+            />
+          )}
+
+          {!isGameOver && (
+            <PowerUpBar
+              powerUps={powerUps}
+              onUsePowerUp={usePowerUp}
+              disabled={isGameOver}
+            />
+          )}
+
+          {isGameOver && (
+            <PostGameScreen
+              puzzle={puzzle}
+              guesses={guesses}
+              score={score}
+              status={status}
+            />
+          )}
+        </>)}
       </main>
     </div>
   )

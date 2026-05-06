@@ -1,20 +1,17 @@
 import { useReducer, useEffect } from 'react'
-import { getTodaysPuzzle } from '../utils/getPuzzle'
-import { paintings } from '../data/paintings'
+import { getTodaysPuzzle, getTestPuzzleId } from '../utils/getPuzzle'
 
 const ROUND_POINTS = { 1: 1000, 2: 800, 3: 600, 4: 400, 5: 200 }
 
 const INITIAL_STATE = {
   puzzle: null,
+  difficulty: null,
   round: 1,
   status: 'playing',
   guesses: [],
   score: 0,
   powerUps: {
-    restoration: { used: false, spot: null },
     curatorsNote: { used: false },
-    paletteReveal: { used: false },
-    eliminator: { used: false, eliminated: [] },
   },
 }
 
@@ -24,7 +21,7 @@ function gameReducer(state, action) {
       return action.state
 
     case 'INIT':
-      return { ...INITIAL_STATE, puzzle: action.puzzle }
+      return { ...INITIAL_STATE, puzzle: action.puzzle, difficulty: action.difficulty }
 
     case 'GUESS': {
       const { paintingId, displayValue } = action
@@ -53,72 +50,71 @@ function gameReducer(state, action) {
       return { ...state, guesses: [...state.guesses, guess], round: state.round + 1 }
     }
 
-    case 'USE_RESTORATION':
-      return {
-        ...state,
-        powerUps: { ...state.powerUps, restoration: { used: true, spot: action.spot } },
-      }
-
     case 'USE_CURATORS_NOTE':
       return {
         ...state,
         powerUps: { ...state.powerUps, curatorsNote: { used: true } },
       }
 
-    case 'USE_PALETTE_REVEAL':
-      return {
-        ...state,
-        powerUps: { ...state.powerUps, paletteReveal: { used: true } },
-      }
-
-    case 'USE_ELIMINATOR': {
-      const wrongPaintings = paintings
-        .filter(p => p.id !== state.puzzle.paintingId)
-        .sort(() => Math.random() - 0.5)
-        .slice(0, 2)
-        .map(p => p.id)
-      return {
-        ...state,
-        powerUps: { ...state.powerUps, eliminator: { used: true, eliminated: wrongPaintings } },
-      }
-    }
-
     default:
       return state
   }
 }
 
-function getStorageKey(puzzle) {
-  return puzzle ? `masterpiece-${puzzle.date}` : null
+function getToday() {
+  return new Date().toISOString().split('T')[0]
+}
+
+function getDifficultyKey(date) {
+  return `masterpiece-difficulty-${date}`
+}
+
+function getGameKey(difficulty, date) {
+  return `masterpiece-${difficulty}-${date}`
 }
 
 export function useGame() {
   const [state, dispatch] = useReducer(gameReducer, INITIAL_STATE)
+  const isTestMode = Boolean(getTestPuzzleId())
 
   useEffect(() => {
-    const puzzle = getTodaysPuzzle()
-    const key = getStorageKey(puzzle)
-    const saved = key ? localStorage.getItem(key) : null
+    if (isTestMode) {
+      const puzzle = getTodaysPuzzle(null)
+      dispatch({ type: 'INIT', puzzle, difficulty: 'easy' })
+      return
+    }
 
+    const today = getToday()
+    const savedDifficulty = localStorage.getItem(getDifficultyKey(today))
+    if (!savedDifficulty) return // wait for difficulty selection via selectDifficulty()
+
+    const puzzle = getTodaysPuzzle(savedDifficulty)
+    const saved = localStorage.getItem(getGameKey(savedDifficulty, today))
     if (saved) {
       try {
         const parsed = JSON.parse(saved)
-        dispatch({ type: 'HYDRATE', state: { ...parsed, puzzle } })
+        dispatch({ type: 'HYDRATE', state: { ...parsed, puzzle, difficulty: savedDifficulty } })
         return
       } catch {
         // ignore corrupt save
       }
     }
-    dispatch({ type: 'INIT', puzzle })
+    dispatch({ type: 'INIT', puzzle, difficulty: savedDifficulty })
   }, [])
 
   useEffect(() => {
-    if (!state.puzzle) return
-    const key = getStorageKey(state.puzzle)
-    if (!key) return
-    const { puzzle: _p, ...toSave } = state
-    localStorage.setItem(key, JSON.stringify(toSave))
+    if (!state.puzzle || !state.difficulty || isTestMode) return
+    const today = getToday()
+    const { puzzle: _p, difficulty: _d, ...toSave } = state
+    localStorage.setItem(getGameKey(state.difficulty, today), JSON.stringify(toSave))
   }, [state])
+
+  const selectDifficulty = (difficulty) => {
+    const today = getToday()
+    localStorage.setItem(getDifficultyKey(today), difficulty)
+    const puzzle = getTodaysPuzzle(difficulty)
+    dispatch({ type: 'INIT', puzzle, difficulty })
+  }
 
   const submitGuess = (painting) => {
     dispatch({ type: 'GUESS', paintingId: painting.id, displayValue: `${painting.title} — ${painting.artist}` })
@@ -126,15 +122,9 @@ export function useGame() {
 
   const skipRound = () => dispatch({ type: 'SKIP' })
 
-  const usePowerUp = (type, payload) => {
-    const typeMap = {
-      restoration: 'USE_RESTORATION',
-      curatorsNote: 'USE_CURATORS_NOTE',
-      paletteReveal: 'USE_PALETTE_REVEAL',
-      eliminator: 'USE_ELIMINATOR',
-    }
-    if (typeMap[type]) dispatch({ type: typeMap[type], ...payload })
+  const usePowerUp = (type) => {
+    if (type === 'curatorsNote') dispatch({ type: 'USE_CURATORS_NOTE' })
   }
 
-  return { state, submitGuess, skipRound, usePowerUp }
+  return { state, submitGuess, skipRound, usePowerUp, selectDifficulty }
 }

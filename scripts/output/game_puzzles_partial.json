@@ -1,0 +1,1303 @@
+{
+  "puzzles": [
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 201,
+      "title": "Mona Lisa",
+      "artist": "Leonardo da Vinci",
+      "year": 1503,
+      "museum": "Salle des États, Louvre",
+      "museumUrl": "https://www.wikidata.org/wiki/Q12418",
+      "imageUrl": "/images/wiki_Q12418.jpg",
+      "dominantColors": [
+        "#332f21",
+        "#bc9070",
+        "#7a5a40",
+        "#848b9a",
+        "#909fab"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: L.D.V."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 202,
+      "title": "The Starry Night",
+      "artist": "Vincent van Gogh",
+      "year": 1889,
+      "museum": "Museum of Modern Art",
+      "museumUrl": "https://www.wikidata.org/wiki/Q45585",
+      "imageUrl": "/images/wiki_Q45585.jpg",
+      "dominantColors": [
+        "TODO"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: V.V.G."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 203,
+      "title": "Girl with a Pearl Earring",
+      "artist": "Johannes Vermeer",
+      "year": 1665,
+      "museum": "Mauritshuis",
+      "museumUrl": "https://www.wikidata.org/wiki/Q185372",
+      "imageUrl": "/images/wiki_Q185372.jpg",
+      "dominantColors": [
+        "#2a251a",
+        "#c3aa8a",
+        "#78674c",
+        "#89a0af",
+        "#678196"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: J.V."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 204,
+      "title": "The Birth of Venus",
+      "artist": "Sandro Botticelli",
+      "year": 1480,
+      "museum": "Uffizi Gallery - Room 11-12, Botticelli's, Florence, Italy",
+      "museumUrl": "https://www.wikidata.org/wiki/Q151047",
+      "imageUrl": "/images/wiki_Q151047.jpg",
+      "dominantColors": [
+        "TODO"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: S.B."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 205,
+      "title": "The Scream",
+      "artist": "Edvard Munch",
+      "year": 1893,
+      "museum": "National Gallery of Norway",
+      "museumUrl": "https://www.wikidata.org/wiki/Q18891156",
+      "imageUrl": "/images/wiki_Q18891156.jpg",
+      "dominantColors": [
+        "#3d4032",
+        "#cd7035",
+        "#9c6e45",
+        "#a5a779",
+        "#698f96"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: E.M."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 206,
+      "title": "The Great Wave off Kanagawa",
+      "artist": "Katsushika Hokusai",
+      "year": 1900,
+      "museum": "Tokyo National Museum",
+      "museumUrl": "https://www.wikidata.org/wiki/Q252485",
+      "imageUrl": "/images/wiki_Q252485.jpg",
+      "dominantColors": [
+        "#bfc5b1",
+        "#223750",
+        "#a79664",
+        "#8e7d46",
+        "#655a3f"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: K.H."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 207,
+      "title": "The Last Supper",
+      "artist": "Leonardo da Vinci",
+      "year": 1490,
+      "museum": "Santa Maria delle Grazie",
+      "museumUrl": "https://www.wikidata.org/wiki/Q128910",
+      "imageUrl": "/images/wiki_Q128910.jpg",
+      "dominantColors": [
+        "#726049",
+        "#cec2ab",
+        "#1f140b",
+        "#b0b6ae",
+        "#9ca3a9"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: L.D.V."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 208,
+      "title": "The Night Watch",
+      "artist": "Rembrandt",
+      "year": 1642,
+      "museum": "Kloveniersdoelen",
+      "museumUrl": "https://www.wikidata.org/wiki/Q219831",
+      "imageUrl": "/images/wiki_Q219831.jpg",
+      "dominantColors": [
+        "#21180a",
+        "#b38a48",
+        "#704b1d",
+        "#829c79",
+        "#8b8c8c"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: R."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 209,
+      "title": "Las Meninas",
+      "artist": "Diego Velázquez",
+      "year": 1656,
+      "museum": "Museo del Prado",
+      "museumUrl": "https://www.wikidata.org/wiki/Q208758",
+      "imageUrl": "/images/wiki_Q208758.jpg",
+      "dominantColors": [
+        "TODO"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: D.V."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 210,
+      "title": "Guernica",
+      "artist": "Pablo Picasso",
+      "year": 1937,
+      "museum": "Museo Nacional Centro de Arte Reina Sofía",
+      "museumUrl": "https://www.wikidata.org/wiki/Q175036",
+      "imageUrl": "/images/wiki_Q175036.jpg",
+      "dominantColors": [
+        "#7c7578",
+        "#272731",
+        "#e1e1e3",
+        "#453b41",
+        "#4a443b"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: P.P."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 211,
+      "title": "American Gothic",
+      "artist": "Grant Wood",
+      "year": 1930,
+      "museum": "Art Institute of Chicago",
+      "museumUrl": "https://www.wikidata.org/wiki/Q464782",
+      "imageUrl": "/images/wiki_Q464782.jpg",
+      "dominantColors": [
+        "#342d22",
+        "#c4b08c",
+        "#9fafa1",
+        "#8e7250",
+        "#788a8e"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: G.W."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 212,
+      "title": "The Kiss",
+      "artist": "Gustav Klimt",
+      "year": 1907,
+      "museum": "Belvedere",
+      "museumUrl": "https://www.wikidata.org/wiki/Q698487",
+      "imageUrl": "/images/wiki_Q698487.jpg",
+      "dominantColors": [
+        "#968549",
+        "#373930",
+        "#9a92ae",
+        "#dfca6a",
+        "#533a1e"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: G.K."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 213,
+      "title": "Whistler's Mother",
+      "artist": "James McNeill Whistler",
+      "year": 1871,
+      "museum": "Musée d'Orsay",
+      "museumUrl": "https://www.wikidata.org/wiki/Q687182",
+      "imageUrl": "/images/wiki_Q687182.jpg",
+      "dominantColors": [
+        "#363427",
+        "#c1b9ac",
+        "#807e6d",
+        "#99989c",
+        "#9ba491"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: J.M.W."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 214,
+      "title": "Liberty Leading the People",
+      "artist": "Eugène Delacroix",
+      "year": 1830,
+      "museum": "Room 700",
+      "museumUrl": "https://www.wikidata.org/wiki/Q29530",
+      "imageUrl": "/images/wiki_Q29530.jpg",
+      "dominantColors": [
+        "#3d3735",
+        "#cac0bd",
+        "#788cab",
+        "#9aa9b8",
+        "#8d8078"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: E.D."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 215,
+      "title": "A Sunday Afternoon on the Island of La Grande Jatte",
+      "artist": "Georges Seurat",
+      "year": 1884,
+      "museum": "Art Institute of Chicago",
+      "museumUrl": "https://www.wikidata.org/wiki/Q1044742",
+      "imageUrl": "/images/wiki_Q1044742.jpg",
+      "dominantColors": [
+        "TODO"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: G.S."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 216,
+      "title": "Wanderer above the Sea of Fog",
+      "artist": "Caspar David Friedrich",
+      "year": 1818,
+      "museum": "Hamburger Kunsthalle",
+      "museumUrl": "https://www.wikidata.org/wiki/Q311243",
+      "imageUrl": "/images/wiki_Q311243.jpg",
+      "dominantColors": [
+        "#a6a7af",
+        "#2a241a",
+        "#4a4030",
+        "#62696e",
+        "#5f5943"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: C.D.F."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 217,
+      "title": "Arnolfini Portrait",
+      "artist": "Jan van Eyck",
+      "year": 1434,
+      "museum": "National Gallery",
+      "museumUrl": "https://www.wikidata.org/wiki/Q220859",
+      "imageUrl": "/images/wiki_Q220859.jpg",
+      "dominantColors": [
+        "#2d2719",
+        "#745841",
+        "#a6937d",
+        "#939486",
+        "#8a8a85"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: J.V.E."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 218,
+      "title": "The Garden of Earthly Delights",
+      "artist": "Hieronymus Bosch",
+      "year": 1490,
+      "museum": "Museo del Prado",
+      "museumUrl": "https://www.wikidata.org/wiki/Q321303",
+      "imageUrl": "/images/wiki_Q321303.jpg",
+      "dominantColors": [
+        "#736c42",
+        "#c6b998",
+        "#171a14",
+        "#aeb69e",
+        "#88a2a1"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: H.B."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 219,
+      "title": "Nighthawks",
+      "artist": "Edward Hopper",
+      "year": 1942,
+      "museum": "Art Institute of Chicago",
+      "museumUrl": "https://www.wikidata.org/wiki/Q83872",
+      "imageUrl": "/images/wiki_Q83872.jpg",
+      "dominantColors": [
+        "#2b322c",
+        "#d9ce7b",
+        "#6b6e51",
+        "#739e79",
+        "#6a8f8d"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: E.H."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 220,
+      "title": "A Bar at the Folies-Bergère",
+      "artist": "Édouard Manet",
+      "year": 1882,
+      "museum": "Courtauld Gallery",
+      "museumUrl": "https://www.wikidata.org/wiki/Q1245354",
+      "imageUrl": "/images/wiki_Q1245354.jpg",
+      "dominantColors": [
+        "#3e3936",
+        "#ccb9a2",
+        "#95897a",
+        "#a0a0a6",
+        "#abaca6"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: É.M."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 221,
+      "title": "The Raft of the Medusa",
+      "artist": "Théodore Géricault",
+      "year": 1818,
+      "museum": "Room 700",
+      "museumUrl": "https://www.wikidata.org/wiki/Q212616",
+      "imageUrl": "/images/wiki_Q212616.jpg",
+      "dominantColors": [
+        "#372b21",
+        "#c2a386",
+        "#846c56",
+        "#9b9c8f",
+        "#938e98"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: T.G."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 222,
+      "title": "The Hay Wain",
+      "artist": "John Constable",
+      "year": 1821,
+      "museum": "National Gallery",
+      "museumUrl": "https://www.wikidata.org/wiki/Q2366825",
+      "imageUrl": "/images/wiki_Q2366825.jpg",
+      "dominantColors": [
+        "#393022",
+        "#c1bdb1",
+        "#87919f",
+        "#83795f",
+        "#9ea7a9"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: J.C."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 223,
+      "title": "The School of Athens",
+      "artist": "Raphael",
+      "year": 1512,
+      "museum": "Apostolic Palace",
+      "museumUrl": "https://www.wikidata.org/wiki/Q186953",
+      "imageUrl": "/images/wiki_Q186953.jpg",
+      "dominantColors": [
+        "#958467",
+        "#231811",
+        "#e4e0ca",
+        "#583619",
+        "#dcd2ab"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: R."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 224,
+      "title": "Water Lilies",
+      "artist": "Claude Monet",
+      "year": 1914,
+      "museum": "France",
+      "museumUrl": "https://www.wikidata.org/wiki/Q1189907",
+      "imageUrl": "/images/wiki_Q1189907.jpg",
+      "dominantColors": [
+        "#727366",
+        "#9ba0b0",
+        "#da9778",
+        "#d4c1a7",
+        "#553831"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: C.M."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 225,
+      "title": "Washington Crossing the Delaware",
+      "artist": "Emanuel Leutze",
+      "year": 1850,
+      "museum": "Kunsthalle Bremen",
+      "museumUrl": "https://www.wikidata.org/wiki/Q110819859",
+      "imageUrl": "/images/wiki_Q110819859.jpg",
+      "dominantColors": [
+        "#d1d1d1",
+        "#333333",
+        "#5c5c5c",
+        "#7f7f7f",
+        "#6c6c6c"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: E.L."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 226,
+      "title": "View of Delft",
+      "artist": "Johannes Vermeer",
+      "year": 1661,
+      "museum": "Mauritshuis",
+      "museumUrl": "https://www.wikidata.org/wiki/Q523974",
+      "imageUrl": "/images/wiki_Q523974.jpg",
+      "dominantColors": [
+        "#ccc8bf",
+        "#3e362f",
+        "#694f3f",
+        "#837c6f",
+        "#866c53"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: J.V."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 227,
+      "title": "The Creation of Adam",
+      "artist": "Michelangelo",
+      "year": 1511,
+      "museum": "Sistine Chapel",
+      "museumUrl": "https://www.wikidata.org/wiki/Q500242",
+      "imageUrl": "/images/wiki_Q500242.jpg",
+      "dominantColors": [
+        "#d0c5af",
+        "#433320",
+        "#66482b",
+        "#80693c",
+        "#9f8b63"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: M."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 228,
+      "title": "The Death of Socrates",
+      "artist": "Jacques-Louis David",
+      "year": 1787,
+      "museum": "Metropolitan Museum of Art",
+      "museumUrl": "https://www.wikidata.org/wiki/Q1752990",
+      "imageUrl": "/images/wiki_Q1752990.jpg",
+      "dominantColors": [
+        "#261f16",
+        "#6c4c30",
+        "#9d7d53",
+        "#8b8466",
+        "#88787c"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: J.D."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 229,
+      "title": "Wheat Field with Cypresses",
+      "artist": "Vincent van Gogh",
+      "year": 1889,
+      "museum": "Metropolitan Museum of Art",
+      "museumUrl": "https://www.wikidata.org/wiki/Q18689458",
+      "imageUrl": "/images/wiki_Q18689458.jpg",
+      "dominantColors": [
+        "#b7c2c3",
+        "#1a3525",
+        "#977e23",
+        "#668ea2",
+        "#68400d"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: V.V.G."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 230,
+      "title": "The Milkmaid",
+      "artist": "Johannes Vermeer",
+      "year": 1660,
+      "museum": "Gallery of Honour",
+      "museumUrl": "https://www.wikidata.org/wiki/Q167605",
+      "imageUrl": "/images/wiki_Q167605.jpg",
+      "dominantColors": [
+        "#d0c6b0",
+        "#332c26",
+        "#a6a18b",
+        "#90775c",
+        "#4c77a3"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: J.V."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 231,
+      "title": "The Tower of Babel",
+      "artist": "Pieter Brueghel the Elder",
+      "year": 1563,
+      "museum": "Unknown Collection",
+      "museumUrl": "https://www.wikidata.org/wiki/Q699091",
+      "imageUrl": "/images/wiki_Q699091.jpg",
+      "dominantColors": [
+        "TODO"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: P.B.T.E."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 232,
+      "title": "Olympia",
+      "artist": "Édouard Manet",
+      "year": 1863,
+      "museum": "Luxembourg Museum",
+      "museumUrl": "https://www.wikidata.org/wiki/Q737062",
+      "imageUrl": "/images/wiki_Q737062.jpg",
+      "dominantColors": [
+        "#c1b89e",
+        "#201f1b",
+        "#543822",
+        "#6e7266",
+        "#81683d"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: É.M."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 233,
+      "title": "Le Déjeuner sur l'herbe",
+      "artist": "Édouard Manet",
+      "year": 1863,
+      "museum": "Musée d'Orsay",
+      "museumUrl": "https://www.wikidata.org/wiki/Q152509",
+      "imageUrl": "/images/wiki_Q152509.jpg",
+      "dominantColors": [
+        "#323222",
+        "#b8ad88",
+        "#7c7855",
+        "#929c90",
+        "#838f95"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: É.M."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 234,
+      "title": "The Swing",
+      "artist": "Jean-Honoré Fragonard",
+      "year": 1775,
+      "museum": "National Gallery of Art",
+      "museumUrl": "https://www.wikidata.org/wiki/Q12859951",
+      "imageUrl": "/images/wiki_Q12859951.jpg",
+      "dominantColors": [
+        "#8a9170",
+        "#d2d9c2",
+        "#553d19",
+        "#d6c386",
+        "#2e240e"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: J.F."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 235,
+      "title": "The Fighting Temeraire",
+      "artist": "J. M. W. Turner",
+      "year": 1839,
+      "museum": "National Gallery",
+      "museumUrl": "https://www.wikidata.org/wiki/Q257580",
+      "imageUrl": "/images/wiki_Q257580.jpg",
+      "dominantColors": [
+        "#9b856f",
+        "#3a2d25",
+        "#5c3622",
+        "#e2cc9b",
+        "#cfc9be"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: J.M.W.T."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 236,
+      "title": "Impression, Sunrise",
+      "artist": "Claude Monet",
+      "year": 1872,
+      "museum": "Musée Marmottan Monet",
+      "museumUrl": "https://www.wikidata.org/wiki/Q328523",
+      "imageUrl": "/images/wiki_Q328523.jpg",
+      "dominantColors": [
+        "#6f7163",
+        "#c19682",
+        "#20382d",
+        "#acbfb1",
+        "#a9b1b4"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: C.M."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 237,
+      "title": "Luncheon of the Boating Party",
+      "artist": "Pierre-Auguste Renoir",
+      "year": 1880,
+      "museum": "The Phillips Collection",
+      "museumUrl": "https://www.wikidata.org/wiki/Q1167907",
+      "imageUrl": "/images/wiki_Q1167907.jpg",
+      "dominantColors": [
+        "#776252",
+        "#d5baa4",
+        "#1f2627",
+        "#b6aea8",
+        "#b7ac96"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: P.R."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 238,
+      "title": "Portrait of Adele Bloch-Bauer I",
+      "artist": "Gustav Klimt",
+      "year": 1907,
+      "museum": "Neue Galerie",
+      "museumUrl": "https://www.wikidata.org/wiki/Q354396",
+      "imageUrl": "/images/wiki_Q354396.jpg",
+      "dominantColors": [
+        "#836d4c",
+        "#e8ca88",
+        "#cda96d",
+        "#2f2b26",
+        "#b8b0ae"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: G.K."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 239,
+      "title": "The Treachery of Images",
+      "artist": "René Magritte",
+      "year": 1929,
+      "museum": "Ahmanson Building",
+      "museumUrl": "https://www.wikidata.org/wiki/Q1061035",
+      "imageUrl": "/images/wiki_Q1061035.jpg",
+      "dominantColors": [
+        "#ceb499",
+        "#3a2d29",
+        "#754c39",
+        "#875e42",
+        "#fbfbe7"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: R.M."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 240,
+      "title": "The Gleaners",
+      "artist": "Jean-François Millet",
+      "year": 1857,
+      "museum": "Gare d'Orsay",
+      "museumUrl": "https://www.wikidata.org/wiki/Q1368055",
+      "imageUrl": "/images/wiki_Q1368055.jpg",
+      "dominantColors": [
+        "#aa9d84",
+        "#2b2326",
+        "#4b3c33",
+        "#615440",
+        "#e6d7c6"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: J.M."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 241,
+      "title": "The Third of May 1808",
+      "artist": "Francisco Goya",
+      "year": 1814,
+      "museum": "Museo del Prado",
+      "museumUrl": "https://www.wikidata.org/wiki/Q1091086",
+      "imageUrl": "/images/wiki_Q1091086.jpg",
+      "dominantColors": [
+        "TODO"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: F.G."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 242,
+      "title": "A Burial at Ornans",
+      "artist": "Gustave Courbet",
+      "year": 1846,
+      "museum": "Musée d'Orsay",
+      "museumUrl": "https://www.wikidata.org/wiki/Q540488",
+      "imageUrl": "/images/wiki_Q540488.jpg",
+      "dominantColors": [
+        "#33302d",
+        "#b6ad90",
+        "#81785e",
+        "#9b9c80",
+        "#94949c"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: G.C."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 243,
+      "title": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+      "artist": "Rembrandt",
+      "year": 1632,
+      "museum": "Mauritshuis",
+      "museumUrl": "https://www.wikidata.org/wiki/Q661378",
+      "imageUrl": "/images/wiki_Q661378.jpg",
+      "dominantColors": [
+        "#201912",
+        "#b79f80",
+        "#715d46",
+        "#8b8a8c",
+        "#8c948a"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: R."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 244,
+      "title": "The Blue Boy",
+      "artist": "Thomas Gainsborough",
+      "year": 1770,
+      "museum": "The Huntington Library, Art Museum, and Botanical Gardens",
+      "museumUrl": "https://www.wikidata.org/wiki/Q604761",
+      "imageUrl": "/images/wiki_Q604761.jpg",
+      "dominantColors": [
+        "#3b3323",
+        "#bfb190",
+        "#816b41",
+        "#87afaf",
+        "#67949a"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: T.G."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 245,
+      "title": "View of Toledo",
+      "artist": "El Greco",
+      "year": 1596,
+      "museum": "Metropolitan Museum of Art",
+      "museumUrl": "https://www.wikidata.org/wiki/Q883994",
+      "imageUrl": "/images/wiki_Q883994.jpg",
+      "dominantColors": [
+        "#343e36",
+        "#6e7e7a",
+        "#a4a199",
+        "#8d9b9c",
+        "#91a49f"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: E.G."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 246,
+      "title": "Self-Portrait with Bandaged Ear",
+      "artist": "Vincent van Gogh",
+      "year": 1889,
+      "museum": "Courtauld Gallery",
+      "museumUrl": "https://www.wikidata.org/wiki/Q19363211",
+      "imageUrl": "/images/wiki_Q19363211.jpg",
+      "dominantColors": [
+        "#c2b78c",
+        "#2e4738",
+        "#576f61",
+        "#8e772c",
+        "#4e4539"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: V.V.G."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 247,
+      "title": "The Horse Fair",
+      "artist": "Rosa Bonheur",
+      "year": 1853,
+      "museum": "Metropolitan Museum of Art",
+      "museumUrl": "https://www.wikidata.org/wiki/Q40432",
+      "imageUrl": "/images/wiki_Q40432.jpg",
+      "dominantColors": [
+        "#454431",
+        "#c8ceb6",
+        "#847f61",
+        "#8a9e9e",
+        "#9cafa6"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: R.B."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 248,
+      "title": "Snap the Whip",
+      "artist": "Winslow Homer",
+      "year": 1872,
+      "museum": "Metropolitan Museum of Art",
+      "museumUrl": "https://www.wikidata.org/wiki/Q19925470",
+      "imageUrl": "/images/wiki_Q19925470.jpg",
+      "dominantColors": [
+        "#636036",
+        "#c3b08b",
+        "#91a497",
+        "#1e2714",
+        "#a7b49b"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: W.H."
+      }
+    },
+    {
+      "id": "TODO — assign puzzle number",
+      "date": "TODO — assign date (YYYY-MM-DD)",
+      "paintingId": 249,
+      "title": "The Gulf Stream",
+      "artist": "Winslow Homer",
+      "year": 1899,
+      "museum": "Metropolitan Museum of Art",
+      "museumUrl": "https://www.wikidata.org/wiki/Q7738501",
+      "imageUrl": "/images/wiki_Q7738501.jpg",
+      "dominantColors": [
+        "#374244",
+        "#c8c7b7",
+        "#87897e",
+        "#9fafb1",
+        "#8d9ea7"
+      ],
+      "funFact": "TODO",
+      "curatorsNote": "TODO",
+      "clues": {
+        "round1": "TODO — abstract/thematic vibe",
+        "round2": "TODO — artistic style/movement",
+        "round3": "TODO — historical context",
+        "round4": "TODO — artist nationality/era",
+        "round5": "TODO — artist initials: W.H."
+      }
+    }
+  ]
+}
