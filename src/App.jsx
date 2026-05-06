@@ -41,6 +41,19 @@ export default function App() {
           {Array.from({ length: 21 }, (_, i) => i + 1).map(n => (
             <a key={n} href={`?puzzle=${n}`} className={`mx-0.5 underline ${n === testPuzzleId ? 'font-bold' : ''}`}>{n}</a>
           ))}
+          {' —'}
+          <button
+            className="mx-1 underline font-bold"
+            onClick={() => {
+              const today = new Date().toISOString().split('T')[0]
+              Object.keys(localStorage)
+                .filter(k => k.startsWith('masterpiece-') && k.endsWith(today))
+                .forEach(k => localStorage.removeItem(k))
+              window.location.href = '/'
+            }}
+          >
+            ↺ reset day
+          </button>
         </div>
       )}
       {showHowToPlay && <HowToPlayModal onClose={handleCloseHowToPlay} />}
