@@ -1,0 +1,151 @@
+{
+  "puzzles": [
+    {
+      "id": 1,
+      "date": "2026-05-05",
+      "paintingId": 1,
+      "title": "The Starry Night",
+      "artist": "Vincent van Gogh",
+      "year": 1889,
+      "museum": "Museum of Modern Art, New York",
+      "museumUrl": "https://www.moma.org/collection/works/79802",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "dominantColors": ["#1a1a4e", "#2d4a8a", "#f0c040", "#8ab4d8", "#3d3d2e"],
+      "funFact": "Van Gogh painted The Starry Night from the window of his room at the Saint-Paul-de-Mausole asylum in June 1889. He actually wrote to his brother that he found the night more alive and richly colored than the day.",
+      "curatorsNote": "The cypress tree in the foreground — a symbol of death in European culture — was deliberately placed as a bridge between earth and sky. Van Gogh was fascinated by them, calling them 'beautiful as regards line and proportion, like an Egyptian obelisk.'",
+      "clues": {
+        "round1": "A turbulent, swirling energy dominates the night sky above a quiet, sleeping village",
+        "round2": "A Post-Impressionist work celebrated for its expressive, thickly layered brushwork and vivid color contrasts",
+        "round3": "Painted in 1889 by a Dutch artist who famously struggled with mental illness and sold only one painting in his lifetime",
+        "round4": "Created by a Dutch artist while residing in southern France; he wrote about this painting in letters to his brother Theo",
+        "round5": "Artist initials: V.V.G."
+      }
+    },
+    {
+      "id": 2,
+      "date": "2026-05-06",
+      "paintingId": 2,
+      "title": "Mona Lisa",
+      "artist": "Leonardo da Vinci",
+      "year": 1503,
+      "museum": "Louvre Museum, Paris",
+      "museumUrl": "https://www.louvre.fr/en/explore/the-palace/from-one-wing-to-another",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/800px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+      "dominantColors": ["#6b5a3e", "#8b7355", "#c8b89a", "#4a4a3a", "#a09070"],
+      "funFact": "The Mona Lisa is smaller than most people expect — only 77 × 53 cm (about the size of a large poster). It was stolen from the Louvre in 1911 by an Italian handyman named Vincenzo Peruggia, who hid it in his apartment for two years.",
+      "curatorsNote": "This painting was stolen in 1911 and missing for two years. Its theft, and the subsequent worldwide media coverage, is largely responsible for making it the most famous painting in the world.",
+      "clues": {
+        "round1": "A subtly smiling figure is surrounded by a hazy, dreamlike landscape using a pioneering blending technique",
+        "round2": "A Renaissance masterwork demonstrating sfumato — a technique of blurring contours to create atmospheric depth",
+        "round3": "Painted in early 16th century Florence; the subject is believed to be Lisa Gherardini, wife of a Florentine merchant",
+        "round4": "Painted by an Italian Renaissance polymath, the work now hangs behind bulletproof glass in a Parisian museum",
+        "round5": "Artist initials: L.d.V."
+      }
+    },
+    {
+      "id": 3,
+      "date": "2026-05-07",
+      "paintingId": 3,
+      "title": "Girl with a Pearl Earring",
+      "artist": "Johannes Vermeer",
+      "year": 1665,
+      "museum": "Mauritshuis, The Hague",
+      "museumUrl": "https://www.mauritshuis.nl/en/explore/the-collection/artworks/girl-with-a-pearl-earring-670/",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/800px-1665_Girl_with_a_Pearl_Earring.jpg",
+      "dominantColors": ["#2a1a0a", "#d4a86a", "#4a8ab4", "#1a1a2a", "#e8c898"],
+      "funFact": "Often called the 'Mona Lisa of the North,' this painting is technically a 'tronie' — a Dutch Golden Age study of an expressive face — not a formal portrait. The identity of the girl has never been confirmed.",
+      "curatorsNote": "The earring in this painting is likely not a real pearl at all, but a glass drop painted to simulate one — a common and fashionable practice in 17th-century Holland.",
+      "clues": {
+        "round1": "A pair of eyes catches the viewer from over a turned shoulder, against a near-black background",
+        "round2": "A Dutch Golden Age 'tronie' — a character study rather than a formal portrait — notable for its simple, dramatic composition",
+        "round3": "Painted around 1665 by a Dutch master known for his mastery of light; the subject's identity remains unknown to this day",
+        "round4": "Painted by a 17th-century Dutch artist from Delft; the work hangs today in The Hague, Netherlands",
+        "round5": "Artist initials: J.V."
+      }
+    },
+    {
+      "id": 4,
+      "date": "2026-05-08",
+      "paintingId": 4,
+      "title": "The Birth of Venus",
+      "artist": "Sandro Botticelli",
+      "year": 1484,
+      "museum": "Uffizi Gallery, Florence",
+      "museumUrl": "https://www.uffizi.it/en/artworks/birth-of-venus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/1280px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+      "dominantColors": ["#6b9ec8", "#d4b896", "#7aa86b", "#c8a87a", "#e8d4b8"],
+      "funFact": "This painting introduced the life-sized depiction of a non-religious, mythological nude to Renaissance art — a revolutionary act at the time. It was likely commissioned by the powerful Medici family of Florence.",
+      "curatorsNote": "Botticelli used real gold to highlight the flowing hair of Venus. The painting was largely forgotten for centuries after his death and only rediscovered by the Pre-Raphaelites in the 19th century.",
+      "clues": {
+        "round1": "A central figure stands atop a giant scallop shell, hair flowing dramatically in the wind",
+        "round2": "A landmark work of Early Renaissance mythology, marking one of the first large-scale non-religious nude paintings in Western art",
+        "round3": "Painted in 1484–1486 for a member of one of Florence's most powerful banking dynasties",
+        "round4": "Painted by a 15th-century Florentine artist; the work is housed in one of Italy's most visited museums",
+        "round5": "Artist initials: S.B."
+      }
+    },
+    {
+      "id": 5,
+      "date": "2026-05-09",
+      "paintingId": 5,
+      "title": "The Great Wave off Kanagawa",
+      "artist": "Katsushika Hokusai",
+      "year": 1831,
+      "museum": "Metropolitan Museum of Art, New York",
+      "museumUrl": "https://www.metmuseum.org/art/collection/search/36491",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/1280px-Tsunami_by_hokusai_19th_century.jpg",
+      "dominantColors": ["#1a3a6a", "#f0e8d8", "#2a5a9a", "#d4c8a8", "#3a6ab4"],
+      "funFact": "This woodblock print was mass-produced — original runs may have numbered in the thousands — yet surviving copies are incredibly rare. The blue color used, 'Prussian blue,' was a newly imported synthetic pigment that Hokusai embraced enthusiastically.",
+      "curatorsNote": "The print is part of a series called 'Thirty-six Views of Mount Fuji.' Mount Fuji is actually visible in the background, small and calm, contrasting with the chaotic foreground wave — a deliberate comment on human scale versus nature.",
+      "clues": {
+        "round1": "Foaming, claw-like white crests crash toward the viewer in a dynamic diagonal composition",
+        "round2": "A Japanese ukiyo-e woodblock print from the Edo period, famous for its bold lines and use of Prussian blue",
+        "round3": "Created around 1831 by a prolific Japanese artist who produced over 30,000 works in his lifetime",
+        "round4": "Made by a Japanese artist from Edo (modern-day Tokyo); a famous mountain peak is visible, serene, in the background",
+        "round5": "Artist initials: K.H."
+      }
+    },
+    {
+      "id": 6,
+      "date": "2026-05-10",
+      "paintingId": 18,
+      "title": "Nighthawks",
+      "artist": "Edward Hopper",
+      "year": 1942,
+      "museum": "Art Institute of Chicago",
+      "museumUrl": "https://www.artic.edu/artworks/111628/nighthawks",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg",
+      "dominantColors": ["#1a2a1a", "#c8a840", "#6a8a5a", "#3a5a3a", "#a88828"],
+      "funFact": "Hopper said he was inspired by a diner on Greenwich Avenue in Manhattan, though no such corner diner with the specific triangular shape has ever been identified. The painting was purchased by the Art Institute of Chicago just months after its completion.",
+      "curatorsNote": "Despite depicting four people in a small space, there is no visible door into the diner — the figures are effectively trapped inside the light, unable to leave, which many critics read as a commentary on American urban isolation.",
+      "clues": {
+        "round1": "Warm, artificial fluorescent light spills out from a glass-walled enclosure into an otherwise empty city street at night",
+        "round2": "An American Realist work depicting the late-night isolation and loneliness of urban life in mid-20th century America",
+        "round3": "Painted in 1942, just weeks after the attack on Pearl Harbor; its mood of quiet desolation resonated deeply with a nation at war",
+        "round4": "Painted by an American artist known for capturing solitude and stillness in everyday scenes; the setting is New York City",
+        "round5": "Artist initials: E.H."
+      }
+    },
+    {
+      "id": 7,
+      "date": "2026-05-11",
+      "paintingId": 9,
+      "title": "The Scream",
+      "artist": "Edvard Munch",
+      "year": 1893,
+      "museum": "National Museum, Oslo",
+      "museumUrl": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00939",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg/800px-Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg",
+      "dominantColors": ["#c84820", "#f0a830", "#2a4a6a", "#8a6840", "#1a3050"],
+      "funFact": "Munch created four versions of The Scream — two in paint and two in pastel. One pastel version was stolen from the Munch Museum in 2004 and recovered two years later. Munch wrote in his diary that the inspiration struck during a walk when 'the sky turned blood-red.'",
+      "curatorsNote": "The blood-red sky Munch depicted may not have been purely metaphorical. Scientists have suggested it could depict the unusual atmospheric optical effects caused by the 1883 eruption of Krakatoa, which created vivid red sunsets across northern Europe for months.",
+      "clues": {
+        "round1": "A swirling, blood-red and orange sky dominates the background while a distorted figure stands on a bridge in the foreground",
+        "round2": "A defining work of Expressionism, depicting an intense, existential moment of anxiety — the figure seems to emit or absorb a soundless cry",
+        "round3": "Created in 1893; the artist wrote in his diary 'I felt an infinite scream passing through nature'",
+        "round4": "Painted by a Norwegian artist; four versions exist, and it has been stolen from Norwegian museums twice",
+        "round5": "Artist initials: E.M."
+      }
+    }
+  ]
+}
