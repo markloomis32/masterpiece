@@ -26,7 +26,9 @@
         "round4": "Painted in 1851 by a German-American artist in Düsseldorf; the heroic scene takes place in New Jersey",
         "round5": "Artist initials: E.L."
       },
-      "difficulty": "easy"
+      "difficulty": "easy",
+      "style": "Romanticism",
+      "era": "1851, United States"
     },
     {
       "id": 2,
@@ -54,7 +56,9 @@
         "round4": "Painted by an American expatriate artist working in Paris and London in the late 19th century",
         "round5": "Artist initials: J.S.S."
       },
-      "difficulty": "easy"
+      "difficulty": "easy",
+      "style": "Realism",
+      "era": "1880s, Paris"
     },
     {
       "id": 3,
@@ -82,7 +86,9 @@
         "round4": "Painted by a French artist who would later become the official court painter of Napoleon Bonaparte",
         "round5": "Artist initials: J.-L.D."
       },
-      "difficulty": "easy"
+      "difficulty": "easy",
+      "style": "Neoclassicism",
+      "era": "1780s, France"
     },
     {
       "id": 4,
@@ -110,7 +116,9 @@
         "round4": "Painted by a Dutch artist while a voluntary patient in Saint-Rémy; he described cypresses in letters to his brother",
         "round5": "Artist initials: V.V.G."
       },
-      "difficulty": "easy"
+      "difficulty": "easy",
+      "style": "Post-Impressionism",
+      "era": "1889, Provence"
     },
     {
       "id": 5,
@@ -138,7 +146,9 @@
         "round4": "Painted by a Dutch artist during his two years in Paris, where exposure to French avant-garde painting transformed his style",
         "round5": "Artist initials: V.V.G."
       },
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "style": "Post-Impressionism",
+      "era": "1887, Paris"
     },
     {
       "id": 6,
@@ -166,7 +176,9 @@
         "round4": "Painted by a Flemish artist from the Southern Netherlands, considered the greatest painter of the Northern Renaissance",
         "round5": "Artist initials: P.B."
       },
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "style": "Northern Renaissance",
+      "era": "1565, Flanders"
     },
     {
       "id": 7,
@@ -194,7 +206,9 @@
         "round4": "Painted by a Dutch artist in the French village of Auvers-sur-Oise, where he died two months after completing this work",
         "round5": "Artist initials: V.V.G."
       },
-      "difficulty": "easy"
+      "difficulty": "easy",
+      "style": "Post-Impressionism",
+      "era": "1890, Auvers-sur-Oise"
     },
     {
       "id": 8,
@@ -222,7 +236,9 @@
         "round4": "Painted by a French Impressionist who had special access to the Paris Opéra and devoted his career to studying dancers",
         "round5": "Artist initials: E.D."
       },
-      "difficulty": "easy"
+      "difficulty": "easy",
+      "style": "Impressionism",
+      "era": "1874, Paris"
     },
     {
       "id": 9,
@@ -250,7 +266,9 @@
         "round4": "Painted by a Dutch artist during his two years in Paris, where encounters with Impressionism radically brightened his color",
         "round5": "Artist initials: V.V.G."
       },
-      "difficulty": "easy"
+      "difficulty": "easy",
+      "style": "Post-Impressionism",
+      "era": "1887, Paris"
     },
     {
       "id": 10,
@@ -278,7 +296,9 @@
         "round4": "Painted by a 17th-century Dutch master in Amsterdam; the subject is a philosopher from ancient Greece",
         "round5": "Artist initials: R.V.R."
       },
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "style": "Dutch Golden Age",
+      "era": "1653, Amsterdam"
     },
     {
       "id": 11,
@@ -306,7 +326,9 @@
         "round4": "Painted by a Dutch artist while living in Arles, France; the subject is the wife of his close friend, the local postman",
         "round5": "Artist initials: V.V.G."
       },
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "style": "Post-Impressionism",
+      "era": "1889, Arles"
     },
     {
       "id": 12,
@@ -334,7 +356,9 @@
         "round4": "Painted by a Dutch artist while living in southern France; the subjects are a postal worker's wife and infant child",
         "round5": "Artist initials: V.V.G."
       },
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "style": "Post-Impressionism",
+      "era": "1888, Arles"
     },
     {
       "id": 13,
@@ -362,7 +386,9 @@
         "round4": "Painted by a Dutch artist while living in Paris; the objects depicted were reportedly his own personal belongings",
         "round5": "Artist initials: V.V.G."
       },
-      "difficulty": "artHistorian"
+      "difficulty": "artHistorian",
+      "style": "Post-Impressionism",
+      "era": "1888, Paris"
     },
     {
       "id": 14,
@@ -390,7 +416,9 @@
         "round4": "Painted by a celebrated French female artist who was one of the most acclaimed painters in mid-19th century Europe",
         "round5": "Artist initials: R.B."
       },
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "style": "Realism",
+      "era": "1852, Paris"
     },
     {
       "id": 15,
@@ -418,7 +446,9 @@
         "round4": "Painted by a major American artist known for seascapes and unflinching scenes of humans confronting the forces of nature",
         "round5": "Artist initials: W.H."
       },
-      "difficulty": "artHistorian"
+      "difficulty": "artHistorian",
+      "style": "American Realism",
+      "era": "1899, United States"
     },
     {
       "id": 16,
@@ -446,7 +476,9 @@
         "round4": "Painted by an American artist from Missouri who devoted his career to documenting life on the Mississippi and Missouri Rivers",
         "round5": "Artist initials: G.C.B."
       },
-      "difficulty": "artHistorian"
+      "difficulty": "artHistorian",
+      "style": "American Romanticism",
+      "era": "1845, United States"
     },
     {
       "id": 17,
@@ -474,7 +506,9 @@
         "round4": "Painted by a German-American artist who became the preeminent painter of the American West in the 19th century",
         "round5": "Artist initials: A.B."
       },
-      "difficulty": "artHistorian"
+      "difficulty": "artHistorian",
+      "style": "Hudson River School",
+      "era": "1863, United States"
     },
     {
       "id": 18,
@@ -502,7 +536,9 @@
         "round4": "Painted by an American artist who was also a celebrated illustrator for Harper's Weekly, giving his images a national audience",
         "round5": "Artist initials: W.H."
       },
-      "difficulty": "artHistorian"
+      "difficulty": "artHistorian",
+      "style": "American Realism",
+      "era": "1872, United States"
     },
     {
       "id": 19,
@@ -530,7 +566,9 @@
         "round4": "Painted by a 17th-century Dutch artist who was almost entirely forgotten after his death and rediscovered by art historians in the 1860s",
         "round5": "Artist initials: J.V."
       },
-      "difficulty": "hard"
+      "difficulty": "hard",
+      "style": "Dutch Golden Age",
+      "era": "c. 1662, Delft"
     },
     {
       "id": 20,
@@ -558,7 +596,9 @@
         "round4": "Painted by a 15th-century Flemish artist from Bruges, then the wealthiest trading city in northern Europe",
         "round5": "Artist initials: P.C."
       },
-      "difficulty": "artHistorian"
+      "difficulty": "artHistorian",
+      "style": "Early Netherlandish",
+      "era": "1449, Bruges"
     },
     {
       "id": 21,
@@ -586,7 +626,9 @@
         "round4": "Painted by a Dutch artist who called these trees 'as beautiful as an Egyptian obelisk' and planned a full series devoted to them",
         "round5": "Artist initials: V.V.G."
       },
-      "difficulty": "artHistorian"
+      "difficulty": "artHistorian",
+      "style": "Post-Impressionism",
+      "era": "1889, Provence"
     }
   ]
 }

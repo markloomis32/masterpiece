@@ -3,6 +3,8 @@ import { getTodaysPuzzle, getTestPuzzleId } from '../utils/getPuzzle'
 
 const ROUND_POINTS = { 1: 1000, 2: 800, 3: 600, 4: 400, 5: 200 }
 
+const POWER_UP_PENALTY = 50
+
 const INITIAL_STATE = {
   puzzle: null,
   difficulty: null,
@@ -10,8 +12,12 @@ const INITIAL_STATE = {
   status: 'playing',
   guesses: [],
   score: 0,
+  powerUpPenalty: 0,
   powerUps: {
-    curatorsNote: { used: false },
+    curatorsNote:  { used: false },
+    styleTip:      { used: false },
+    eraTip:        { used: false },
+    artistReveal:  { used: false },
   },
 }
 
@@ -33,7 +39,7 @@ function gameReducer(state, action) {
           ...state,
           guesses: [...state.guesses, guess],
           status: 'won',
-          score: ROUND_POINTS[state.round],
+          score: Math.max(0, ROUND_POINTS[state.round] - state.powerUpPenalty),
         }
       }
       if (state.round === 5) {
@@ -50,10 +56,11 @@ function gameReducer(state, action) {
       return { ...state, guesses: [...state.guesses, guess], round: state.round + 1 }
     }
 
-    case 'USE_CURATORS_NOTE':
+    case 'USE_POWER_UP':
       return {
         ...state,
-        powerUps: { ...state.powerUps, curatorsNote: { used: true } },
+        powerUpPenalty: state.powerUpPenalty + POWER_UP_PENALTY,
+        powerUps: { ...state.powerUps, [action.key]: { used: true } },
       }
 
     default:
@@ -122,8 +129,9 @@ export function useGame() {
 
   const skipRound = () => dispatch({ type: 'SKIP' })
 
-  const usePowerUp = (type) => {
-    if (type === 'curatorsNote') dispatch({ type: 'USE_CURATORS_NOTE' })
+  const usePowerUp = (key) => {
+    const valid = ['curatorsNote', 'styleTip', 'eraTip', 'artistReveal']
+    if (valid.includes(key)) dispatch({ type: 'USE_POWER_UP', key })
   }
 
   return { state, submitGuess, skipRound, usePowerUp, selectDifficulty }
