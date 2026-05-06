@@ -3,149 +3,590 @@
     {
       "id": 1,
       "date": "2026-05-05",
-      "paintingId": 1,
-      "title": "The Starry Night",
-      "artist": "Vincent van Gogh",
-      "year": 1889,
-      "museum": "Museum of Modern Art, New York",
-      "museumUrl": "https://www.moma.org/collection/works/79802",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
-      "dominantColors": ["#1a1a4e", "#2d4a8a", "#f0c040", "#8ab4d8", "#3d3d2e"],
-      "funFact": "Van Gogh painted The Starry Night from the window of his room at the Saint-Paul-de-Mausole asylum in June 1889. He actually wrote to his brother that he found the night more alive and richly colored than the day.",
-      "curatorsNote": "The cypress tree in the foreground — a symbol of death in European culture — was deliberately placed as a bridge between earth and sky. Van Gogh was fascinated by them, calling them 'beautiful as regards line and proportion, like an Egyptian obelisk.'",
+      "paintingId": 101,
+      "title": "Washington Crossing the Delaware",
+      "artist": "Emanuel Leutze",
+      "year": 1851,
+      "museum": "The Metropolitan Museum of Art, New York",
+      "museumUrl": "https://www.metmuseum.org/art/collection/search/11417",
+      "imageUrl": "/images/11417.jpg",
+      "dominantColors": [
+        "#605645",
+        "#cebd99",
+        "#11100e",
+        "#a9ad99",
+        "#a0a39c"
+      ],
+      "funFact": "This colossal painting (12 × 21 feet) was actually painted in Düsseldorf, Germany by Emanuel Leutze, a German-American artist. He used the Rhine River as a stand-in for the Delaware. The original version was damaged by fire and flood; what hangs in the Met is the second, improved version, completed in 1851.",
+      "curatorsNote": "The painting is full of historical inaccuracies: the flag shown wasn't yet in use, the boats are too small, and the crossing happened in pitch darkness, not at dawn. Leutze was painting a symbol of courage and determination — not a documentary record.",
       "clues": {
-        "round1": "A turbulent, swirling energy dominates the night sky above a quiet, sleeping village",
-        "round2": "A Post-Impressionist work celebrated for its expressive, thickly layered brushwork and vivid color contrasts",
-        "round3": "Painted in 1889 by a Dutch artist who famously struggled with mental illness and sold only one painting in his lifetime",
-        "round4": "Created by a Dutch artist while residing in southern France; he wrote about this painting in letters to his brother Theo",
-        "round5": "Artist initials: V.V.G."
-      }
+        "round1": "A crowded boat pushes through icy, churning waters in the dead of winter toward an uncertain shore",
+        "round2": "An epic Romantic history painting, monumental in both scale and patriotic ambition, depicting a turning point in war",
+        "round3": "Depicts a pivotal surprise attack launched on the night of December 25, 1776 during the American Revolutionary War",
+        "round4": "Painted in 1851 by a German-American artist in Düsseldorf; the heroic scene takes place in New Jersey",
+        "round5": "Artist initials: E.L."
+      },
+      "difficulty": "easy"
     },
     {
       "id": 2,
       "date": "2026-05-06",
-      "paintingId": 2,
-      "title": "Mona Lisa",
-      "artist": "Leonardo da Vinci",
-      "year": 1503,
-      "museum": "Louvre Museum, Paris",
-      "museumUrl": "https://www.louvre.fr/en/explore/the-palace/from-one-wing-to-another",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/800px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
-      "dominantColors": ["#6b5a3e", "#8b7355", "#c8b89a", "#4a4a3a", "#a09070"],
-      "funFact": "The Mona Lisa is smaller than most people expect — only 77 × 53 cm (about the size of a large poster). It was stolen from the Louvre in 1911 by an Italian handyman named Vincenzo Peruggia, who hid it in his apartment for two years.",
-      "curatorsNote": "This painting was stolen in 1911 and missing for two years. Its theft, and the subsequent worldwide media coverage, is largely responsible for making it the most famous painting in the world.",
+      "paintingId": 102,
+      "title": "Madame X",
+      "artist": "John Singer Sargent",
+      "year": 1883,
+      "museum": "The Metropolitan Museum of Art, New York",
+      "museumUrl": "https://www.metmuseum.org/art/collection/search/12127",
+      "imageUrl": "/images/12127.jpg",
+      "dominantColors": [
+        "#2d261f",
+        "#b5a495",
+        "#7e6e5f",
+        "#939486",
+        "#918c8c"
+      ],
+      "funFact": "When Madame X debuted at the Paris Salon of 1884, the original version showed one strap of her dress fallen suggestively off her shoulder. The scandal was so severe that Sargent repainted the strap upright, but the damage was done — he abandoned Paris and moved to London.",
+      "curatorsNote": "The subject, Virginie Gautreau, was a Louisiana-born American socialite famous in Paris for her beauty and her habit of powdering her skin with lavender-tinted powder, giving her the distinctively cool, bluish complexion Sargent preserved forever in paint.",
       "clues": {
-        "round1": "A subtly smiling figure is surrounded by a hazy, dreamlike landscape using a pioneering blending technique",
-        "round2": "A Renaissance masterwork demonstrating sfumato — a technique of blurring contours to create atmospheric depth",
-        "round3": "Painted in early 16th century Florence; the subject is believed to be Lisa Gherardini, wife of a Florentine merchant",
-        "round4": "Painted by an Italian Renaissance polymath, the work now hangs behind bulletproof glass in a Parisian museum",
-        "round5": "Artist initials: L.d.V."
-      }
+        "round1": "A pale figure in a low-cut black gown turns in sharp profile against a dark background, every line deliberate and severe",
+        "round2": "A Gilded Age portrait combining Realist technique with bold, almost theatrical composition — and a scandal at its first showing",
+        "round3": "Exhibited at the Paris Salon of 1884, the painting outraged audiences and effectively ended the artist's career in France",
+        "round4": "Painted by an American expatriate artist working in Paris and London in the late 19th century",
+        "round5": "Artist initials: J.S.S."
+      },
+      "difficulty": "easy"
     },
     {
       "id": 3,
       "date": "2026-05-07",
-      "paintingId": 3,
-      "title": "Girl with a Pearl Earring",
-      "artist": "Johannes Vermeer",
-      "year": 1665,
-      "museum": "Mauritshuis, The Hague",
-      "museumUrl": "https://www.mauritshuis.nl/en/explore/the-collection/artworks/girl-with-a-pearl-earring-670/",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/800px-1665_Girl_with_a_Pearl_Earring.jpg",
-      "dominantColors": ["#2a1a0a", "#d4a86a", "#4a8ab4", "#1a1a2a", "#e8c898"],
-      "funFact": "Often called the 'Mona Lisa of the North,' this painting is technically a 'tronie' — a Dutch Golden Age study of an expressive face — not a formal portrait. The identity of the girl has never been confirmed.",
-      "curatorsNote": "The earring in this painting is likely not a real pearl at all, but a glass drop painted to simulate one — a common and fashionable practice in 17th-century Holland.",
+      "paintingId": 103,
+      "title": "The Death of Socrates",
+      "artist": "Jacques-Louis David",
+      "year": 1787,
+      "museum": "The Metropolitan Museum of Art, New York",
+      "museumUrl": "https://www.metmuseum.org/art/collection/search/436105",
+      "imageUrl": "/images/436105.jpg",
+      "dominantColors": [
+        "#261f16",
+        "#6c4c30",
+        "#9d7d53",
+        "#8b8466",
+        "#88787c"
+      ],
+      "funFact": "David painted this just two years before the French Revolution, and it was immediately read as a political manifesto about civic virtue and dying for one's beliefs. It became an icon of the revolutionary movement and secured David's reputation as the greatest Neoclassical painter in France.",
+      "curatorsNote": "One key historical detail is deliberately wrong: Plato, who was present at Socrates' death, is shown here as the solemn elderly man at the foot of the bed — but Plato was only in his late twenties at the time. David aged him to lend the scene greater gravity.",
       "clues": {
-        "round1": "A pair of eyes catches the viewer from over a turned shoulder, against a near-black background",
-        "round2": "A Dutch Golden Age 'tronie' — a character study rather than a formal portrait — notable for its simple, dramatic composition",
-        "round3": "Painted around 1665 by a Dutch master known for his mastery of light; the subject's identity remains unknown to this day",
-        "round4": "Painted by a 17th-century Dutch artist from Delft; the work hangs today in The Hague, Netherlands",
-        "round5": "Artist initials: J.V."
-      }
+        "round1": "A serene, muscular figure in a stone chamber gestures upward while surrounded by grieving companions",
+        "round2": "A defining work of French Neoclassicism, celebrating stoic virtue through a scene drawn from ancient Greek philosophy",
+        "round3": "Painted in 1787, just two years before the French Revolution, and widely read as a call to civic courage",
+        "round4": "Painted by a French artist who would later become the official court painter of Napoleon Bonaparte",
+        "round5": "Artist initials: J.-L.D."
+      },
+      "difficulty": "easy"
     },
     {
       "id": 4,
       "date": "2026-05-08",
-      "paintingId": 4,
-      "title": "The Birth of Venus",
-      "artist": "Sandro Botticelli",
-      "year": 1484,
-      "museum": "Uffizi Gallery, Florence",
-      "museumUrl": "https://www.uffizi.it/en/artworks/birth-of-venus",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/1280px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
-      "dominantColors": ["#6b9ec8", "#d4b896", "#7aa86b", "#c8a87a", "#e8d4b8"],
-      "funFact": "This painting introduced the life-sized depiction of a non-religious, mythological nude to Renaissance art — a revolutionary act at the time. It was likely commissioned by the powerful Medici family of Florence.",
-      "curatorsNote": "Botticelli used real gold to highlight the flowing hair of Venus. The painting was largely forgotten for centuries after his death and only rediscovered by the Pre-Raphaelites in the 19th century.",
+      "paintingId": 104,
+      "title": "Wheat Field with Cypresses",
+      "artist": "Vincent van Gogh",
+      "year": 1889,
+      "museum": "The Metropolitan Museum of Art, New York",
+      "museumUrl": "https://www.metmuseum.org/art/collection/search/436535",
+      "imageUrl": "/images/436535.jpg",
+      "dominantColors": [
+        "#727960",
+        "#d0cdb4",
+        "#0f1a16",
+        "#8aa4b5",
+        "#a7c2bf"
+      ],
+      "funFact": "Van Gogh painted three versions of this composition in the summer of 1889 while staying at the Saint-Paul-de-Mausole asylum in Saint-Rémy. He wrote to his brother Theo that cypresses were 'as beautiful as an Egyptian obelisk.' The Met's version is considered the finest of the three.",
+      "curatorsNote": "The specific wheat field Van Gogh painted has been identified — it is located just outside the asylum walls and is still recognizable today. Van Gogh had to request special permission from the asylum director each time he wanted to go outside to paint.",
       "clues": {
-        "round1": "A central figure stands atop a giant scallop shell, hair flowing dramatically in the wind",
-        "round2": "A landmark work of Early Renaissance mythology, marking one of the first large-scale non-religious nude paintings in Western art",
-        "round3": "Painted in 1484–1486 for a member of one of Florence's most powerful banking dynasties",
-        "round4": "Painted by a 15th-century Florentine artist; the work is housed in one of Italy's most visited museums",
-        "round5": "Artist initials: S.B."
-      }
+        "round1": "Vigorous, swirling brushstrokes animate a golden field beneath a turbulent sky, with dark flame-like trees on the right",
+        "round2": "A Post-Impressionist landscape in which every element — grass, clouds, and trees — vibrates with the same restless energy",
+        "round3": "Painted in the summer of 1889 by an artist recuperating at an asylum in Provence, southern France",
+        "round4": "Painted by a Dutch artist while a voluntary patient in Saint-Rémy; he described cypresses in letters to his brother",
+        "round5": "Artist initials: V.V.G."
+      },
+      "difficulty": "easy"
     },
     {
       "id": 5,
       "date": "2026-05-09",
-      "paintingId": 5,
-      "title": "The Great Wave off Kanagawa",
-      "artist": "Katsushika Hokusai",
-      "year": 1831,
-      "museum": "Metropolitan Museum of Art, New York",
-      "museumUrl": "https://www.metmuseum.org/art/collection/search/36491",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/1280px-Tsunami_by_hokusai_19th_century.jpg",
-      "dominantColors": ["#1a3a6a", "#f0e8d8", "#2a5a9a", "#d4c8a8", "#3a6ab4"],
-      "funFact": "This woodblock print was mass-produced — original runs may have numbered in the thousands — yet surviving copies are incredibly rare. The blue color used, 'Prussian blue,' was a newly imported synthetic pigment that Hokusai embraced enthusiastically.",
-      "curatorsNote": "The print is part of a series called 'Thirty-six Views of Mount Fuji.' Mount Fuji is actually visible in the background, small and calm, contrasting with the chaotic foreground wave — a deliberate comment on human scale versus nature.",
+      "paintingId": 105,
+      "title": "Self-Portrait with a Straw Hat",
+      "artist": "Vincent van Gogh",
+      "year": 1887,
+      "museum": "The Metropolitan Museum of Art, New York",
+      "museumUrl": "https://www.metmuseum.org/art/collection/search/436532",
+      "imageUrl": "/images/436532.jpg",
+      "dominantColors": [
+        "#ae9066",
+        "#302e22",
+        "#f2d263",
+        "#cfceca",
+        "#803919"
+      ],
+      "funFact": "Van Gogh painted over 35 self-portraits in just three years (1885–1889), partly because he couldn't afford to pay models and wanted to practice painting faces. This one was made during his stay in Paris, where contact with the Impressionists and Pointillists transformed his palette from dark to vivid.",
+      "curatorsNote": "This self-portrait is painted on the reverse side of another Van Gogh work, The Potato Peeler, on the same physical canvas. During conservation work at the Met, the two paintings were carefully separated and are now displayed independently.",
       "clues": {
-        "round1": "Foaming, claw-like white crests crash toward the viewer in a dynamic diagonal composition",
-        "round2": "A Japanese ukiyo-e woodblock print from the Edo period, famous for its bold lines and use of Prussian blue",
-        "round3": "Created around 1831 by a prolific Japanese artist who produced over 30,000 works in his lifetime",
-        "round4": "Made by a Japanese artist from Edo (modern-day Tokyo); a famous mountain peak is visible, serene, in the background",
-        "round5": "Artist initials: K.H."
-      }
+        "round1": "A direct, probing gaze beneath a wide-brimmed summer hat, rendered in short, confident dabs of bright color",
+        "round2": "A Post-Impressionist self-portrait showing clear influence from Impressionism and Pointillism during the artist's Paris years",
+        "round3": "One of more than 35 self-portraits made between 1885 and 1889 — painted cheaply, as a substitute for hired models",
+        "round4": "Painted by a Dutch artist during his two years in Paris, where exposure to French avant-garde painting transformed his style",
+        "round5": "Artist initials: V.V.G."
+      },
+      "difficulty": "hard"
     },
     {
       "id": 6,
       "date": "2026-05-10",
-      "paintingId": 18,
-      "title": "Nighthawks",
-      "artist": "Edward Hopper",
-      "year": 1942,
-      "museum": "Art Institute of Chicago",
-      "museumUrl": "https://www.artic.edu/artworks/111628/nighthawks",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg",
-      "dominantColors": ["#1a2a1a", "#c8a840", "#6a8a5a", "#3a5a3a", "#a88828"],
-      "funFact": "Hopper said he was inspired by a diner on Greenwich Avenue in Manhattan, though no such corner diner with the specific triangular shape has ever been identified. The painting was purchased by the Art Institute of Chicago just months after its completion.",
-      "curatorsNote": "Despite depicting four people in a small space, there is no visible door into the diner — the figures are effectively trapped inside the light, unable to leave, which many critics read as a commentary on American urban isolation.",
+      "paintingId": 106,
+      "title": "The Harvesters",
+      "artist": "Pieter Bruegel the Elder",
+      "year": 1565,
+      "museum": "The Metropolitan Museum of Art, New York",
+      "museumUrl": "https://www.metmuseum.org/art/collection/search/435809",
+      "imageUrl": "/images/435809.jpg",
+      "dominantColors": [
+        "#987445",
+        "#2b2113",
+        "#d7c7b2",
+        "#cab9a7",
+        "#5a2e0f"
+      ],
+      "funFact": "The Harvesters is part of a series of five large panels Bruegel painted depicting the months of the year — one of the first secular landscape series in Western art. This panel represents late summer, August or September. The five surviving panels are now split between New York, Vienna, and Prague.",
+      "curatorsNote": "Look closely at the lower right corner: workers are taking a lunch break in the shade of a pear tree, including a figure sprawled asleep on the ground. This candid, unsentimental portrayal of peasant rest was considered bold — Bruegel observed ordinary life with a dignity that was entirely new.",
       "clues": {
-        "round1": "Warm, artificial fluorescent light spills out from a glass-walled enclosure into an otherwise empty city street at night",
-        "round2": "An American Realist work depicting the late-night isolation and loneliness of urban life in mid-20th century America",
-        "round3": "Painted in 1942, just weeks after the attack on Pearl Harbor; its mood of quiet desolation resonated deeply with a nation at war",
-        "round4": "Painted by an American artist known for capturing solitude and stillness in everyday scenes; the setting is New York City",
-        "round5": "Artist initials: E.H."
-      }
+        "round1": "A vast golden landscape stretches under a hazy summer sky, with tiny figures laboring in fields that reach to the horizon",
+        "round2": "A Flemish Renaissance masterwork from a pioneering seasonal series that elevated landscape and peasant life to the status of high art",
+        "round3": "One of five surviving panels from a 1565 commission depicting the months; among the first great secular landscape paintings in history",
+        "round4": "Painted by a Flemish artist from the Southern Netherlands, considered the greatest painter of the Northern Renaissance",
+        "round5": "Artist initials: P.B."
+      },
+      "difficulty": "hard"
     },
     {
       "id": 7,
       "date": "2026-05-11",
-      "paintingId": 9,
-      "title": "The Scream",
-      "artist": "Edvard Munch",
-      "year": 1893,
-      "museum": "National Museum, Oslo",
-      "museumUrl": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00939",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg/800px-Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg",
-      "dominantColors": ["#c84820", "#f0a830", "#2a4a6a", "#8a6840", "#1a3050"],
-      "funFact": "Munch created four versions of The Scream — two in paint and two in pastel. One pastel version was stolen from the Munch Museum in 2004 and recovered two years later. Munch wrote in his diary that the inspiration struck during a walk when 'the sky turned blood-red.'",
-      "curatorsNote": "The blood-red sky Munch depicted may not have been purely metaphorical. Scientists have suggested it could depict the unusual atmospheric optical effects caused by the 1883 eruption of Krakatoa, which created vivid red sunsets across northern Europe for months.",
+      "paintingId": 107,
+      "title": "Irises",
+      "artist": "Vincent van Gogh",
+      "year": 1890,
+      "museum": "The Metropolitan Museum of Art, New York",
+      "museumUrl": "https://www.metmuseum.org/art/collection/search/436528",
+      "imageUrl": "/images/436528.jpg",
+      "dominantColors": [
+        "#d1cdc5",
+        "#3c586a",
+        "#74998d",
+        "#615853",
+        "#78734c"
+      ],
+      "funFact": "Van Gogh painted irises repeatedly, finding in their twisted, organic forms the same expressive energy he saw in wheat fields and cypresses. In letters to his brother, he described working on irises as his 'lightning rod' — a way to stay anchored during his most turbulent mental periods.",
+      "curatorsNote": "This version was painted in Auvers-sur-Oise in 1890, in the final months of Van Gogh's life — distinct from the more famous Irises at the Getty Museum, which was painted a year earlier in Saint-Rémy. The lighter, more open background reflects the brighter mood of his final spring.",
       "clues": {
-        "round1": "A swirling, blood-red and orange sky dominates the background while a distorted figure stands on a bridge in the foreground",
-        "round2": "A defining work of Expressionism, depicting an intense, existential moment of anxiety — the figure seems to emit or absorb a soundless cry",
-        "round3": "Created in 1893; the artist wrote in his diary 'I felt an infinite scream passing through nature'",
-        "round4": "Painted by a Norwegian artist; four versions exist, and it has been stolen from Norwegian museums twice",
-        "round5": "Artist initials: E.M."
-      }
+        "round1": "Dense clusters of deep violet-blue flowers emerge from a tangle of curved green stems and leaves",
+        "round2": "A Post-Impressionist floral study with bold outlines and vibrant complementary color contrasts recalling Japanese woodblock prints",
+        "round3": "Painted in 1890 during the final year of the artist's life; he described flowers as a refuge from psychological distress",
+        "round4": "Painted by a Dutch artist in the French village of Auvers-sur-Oise, where he died two months after completing this work",
+        "round5": "Artist initials: V.V.G."
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "date": "2026-05-12",
+      "paintingId": 108,
+      "title": "The Dance Class",
+      "artist": "Edgar Degas",
+      "year": 1874,
+      "museum": "The Metropolitan Museum of Art, New York",
+      "museumUrl": "https://www.metmuseum.org/art/collection/search/438817",
+      "imageUrl": "/images/438817.jpg",
+      "dominantColors": [
+        "#605b46",
+        "#100e0a",
+        "#c1b08f",
+        "#9ab8a8",
+        "#8ca8a5"
+      ],
+      "funFact": "Degas painted and drew the subject of ballet dancers over 1,500 times — more than half his entire output. He had special backstage access to the Paris Opéra and was fascinated not by the performance itself but by the rehearsal: the effort, discipline, and tedium invisible to the audience.",
+      "curatorsNote": "The older man leaning on a staff at the center is Jules Perrot, a real and celebrated ballet master who choreographed Giselle. He was well past his prime when Degas painted him here, lending the scene an air of passing time and the bittersweet weight of a career's end.",
+      "clues": {
+        "round1": "Young figures in white tutus fill a large practice room, caught mid-movement or waiting, observed by an older man with a staff",
+        "round2": "An Impressionist interior celebrated for its asymmetric composition, cropped framing, and candid backstage observation",
+        "round3": "Painted in 1874, offering an unprecedented view of the rehearsal rooms and rigorous training behind the Paris Opéra",
+        "round4": "Painted by a French Impressionist who had special access to the Paris Opéra and devoted his career to studying dancers",
+        "round5": "Artist initials: E.D."
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": 9,
+      "date": "2026-05-13",
+      "paintingId": 109,
+      "title": "Sunflowers",
+      "artist": "Vincent van Gogh",
+      "year": 1887,
+      "museum": "The Metropolitan Museum of Art, New York",
+      "museumUrl": "https://www.metmuseum.org/art/collection/search/436524",
+      "imageUrl": "/images/436524.jpg",
+      "dominantColors": [
+        "#5d6959",
+        "#c1a565",
+        "#1f1e25",
+        "#6b9fb2",
+        "#8fc1cb"
+      ],
+      "funFact": "The Met's Sunflowers is one of Van Gogh's early sunflower paintings, made in Paris in 1887. Unlike the famous yellow-on-yellow Arles series (now in London, Amsterdam, and Munich), this version shows cut flowers lying flat on a surface, exploring decay and the cycle of life as much as beauty.",
+      "curatorsNote": "Van Gogh painted two distinct sunflower series a year apart: the Paris series (1887, cut flowers on a surface, exploring wilting and color) and the Arles series (1888–89, flowers in a vase, celebrating life). The Met's painting is the finest example of the earlier, more melancholy Paris series.",
+      "clues": {
+        "round1": "Heavy-headed flowers, some fully open and some already wilting, rendered in thick impasto paint against a plain surface",
+        "round2": "A Post-Impressionist still life — bold and direct — marking a turning point away from the artist's earlier, darker palette",
+        "round3": "Painted in Paris in 1887, before the more famous Arles sunflower series; it dwells on beauty in the process of fading",
+        "round4": "Painted by a Dutch artist during his two years in Paris, where encounters with Impressionism radically brightened his color",
+        "round5": "Artist initials: V.V.G."
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": 10,
+      "date": "2026-05-14",
+      "paintingId": 110,
+      "title": "Aristotle with a Bust of Homer",
+      "artist": "Rembrandt van Rijn",
+      "year": 1653,
+      "museum": "The Metropolitan Museum of Art, New York",
+      "museumUrl": "https://www.metmuseum.org/art/collection/search/437394",
+      "imageUrl": "/images/437394.jpg",
+      "dominantColors": [
+        "#140c08",
+        "#5f482d",
+        "#9c825f",
+        "#817e84",
+        "#848c94"
+      ],
+      "funFact": "This painting was commissioned in 1652 by a Sicilian nobleman who asked Rembrandt simply for 'a philosopher.' It was purchased by the Metropolitan Museum of Art in 1961 for $2.3 million — a world record auction price at the time, front-page news across the United States.",
+      "curatorsNote": "Look at the hand resting on Homer's marble bust — it is an extraordinarily tender, almost sorrowful gesture. Rembrandt seems to suggest that Aristotle, the supreme philosopher, envies Homer, the poet: that reason envies feeling, and the mind envies the heart.",
+      "clues": {
+        "round1": "A richly robed figure in warm golden light places a contemplative hand on a white marble bust",
+        "round2": "A Dutch Golden Age painting at the peak of Rembrandt's mature style — celebrated for its profound psychological depth and chiaroscuro",
+        "round3": "Commissioned in 1653 by a Sicilian nobleman; when it sold at auction in 1961, the price set a world record",
+        "round4": "Painted by a 17th-century Dutch master in Amsterdam; the subject is a philosopher from ancient Greece",
+        "round5": "Artist initials: R.V.R."
+      },
+      "difficulty": "hard"
+    },
+    {
+      "id": 11,
+      "date": "2026-05-15",
+      "paintingId": 111,
+      "title": "La Berceuse",
+      "artist": "Vincent van Gogh",
+      "year": 1889,
+      "museum": "The Metropolitan Museum of Art, New York",
+      "museumUrl": "https://www.metmuseum.org/art/collection/search/437984",
+      "imageUrl": "/images/437984.jpg",
+      "dominantColors": [
+        "#2a2f1a",
+        "#ab7b5a",
+        "#2a774d",
+        "#56a57a",
+        "#808a99"
+      ],
+      "funFact": "Van Gogh painted five versions of La Berceuse, all depicting Augustine Roulin, wife of his postman friend Joseph Roulin. He planned to display the five canvases as a triptych flanked by two of his Sunflowers paintings — like a sailor's altarpiece that would bring comfort to 'simple sailors' far from home.",
+      "curatorsNote": "The rope in Augustine's hands disappears off the bottom of the canvas — she is rocking an unseen cradle just out of frame. The deliberately loud, clashing floral wallpaper was Van Gogh's intentional choice, meant to create a hypnotic, lullaby-like effect through color rather than sound.",
+      "clues": {
+        "round1": "A broad-faced woman sits squarely in the center, hands folded, against an intensely patterned and almost overwhelming floral background",
+        "round2": "A Post-Impressionist portrait combining frontal, icon-like composition with deliberately loud, decorative color — described by the artist as a 'lullaby in paint'",
+        "round3": "One of five versions painted in early 1889; the artist intended all five to be displayed together alongside paintings of sunflowers",
+        "round4": "Painted by a Dutch artist while living in Arles, France; the subject is the wife of his close friend, the local postman",
+        "round5": "Artist initials: V.V.G."
+      },
+      "difficulty": "hard"
+    },
+    {
+      "id": 12,
+      "date": "2026-05-16",
+      "paintingId": 112,
+      "title": "Madame Roulin and Her Baby",
+      "artist": "Vincent van Gogh",
+      "year": 1888,
+      "museum": "The Metropolitan Museum of Art, New York",
+      "museumUrl": "https://www.metmuseum.org/art/collection/search/459123",
+      "imageUrl": "/images/459123.jpg",
+      "dominantColors": [
+        "#ba9918",
+        "#2e4415",
+        "#cccfb1",
+        "#6b3e0f",
+        "#f4d94b"
+      ],
+      "funFact": "The Roulin family — postman Joseph, his wife Augustine, and their children — were among Van Gogh's closest companions in Arles and his most frequent portrait subjects. Baby Marcelle, shown here, was born in July 1888 and was just four months old when this was painted.",
+      "curatorsNote": "Van Gogh painted this tender mother-and-child scene in late November 1888, just weeks before his famous breakdown and the episode in which he cut off part of his own ear. Despite the turmoil in his private life, the painting has a rare and surprising calm.",
+      "clues": {
+        "round1": "A mother in a green dress holds a wide-eyed infant in her lap, both looking directly at the viewer",
+        "round2": "A Post-Impressionist double portrait using flat color areas and bold outlines influenced by Japanese woodblock prints",
+        "round3": "Painted in Arles in November 1888, weeks before a famous breakdown; the subjects were the artist's closest friends at the time",
+        "round4": "Painted by a Dutch artist while living in southern France; the subjects are a postal worker's wife and infant child",
+        "round5": "Artist initials: V.V.G."
+      },
+      "difficulty": "hard"
+    },
+    {
+      "id": 13,
+      "date": "2026-05-17",
+      "paintingId": 113,
+      "title": "Shoes",
+      "artist": "Vincent van Gogh",
+      "year": 1888,
+      "museum": "The Metropolitan Museum of Art, New York",
+      "museumUrl": "https://www.metmuseum.org/art/collection/search/436533",
+      "imageUrl": "/images/436533.jpg",
+      "dominantColors": [
+        "#b08f69",
+        "#29201a",
+        "#673a1b",
+        "#e5cfa9",
+        "#ebdac2"
+      ],
+      "funFact": "These worn leather shoes became the subject of a famous philosophical dispute. Martin Heidegger cited a Van Gogh shoe painting in his 1935 essay 'The Origin of the Work of Art,' claiming the shoes belonged to a peasant woman. Art historian Meyer Schapiro later countered that they were actually the artist's own city shoes.",
+      "curatorsNote": "Heidegger wrote: 'From the dark opening of the worn insides of the shoes the toilsome tread of the worker stares forth.' Schapiro replied, bluntly, that Heidegger had projected a fantasy onto a pair of shoes Van Gogh had bought himself in a Paris market and wore around the city.",
+      "clues": {
+        "round1": "A pair of heavily worn, unlaced leather shoes sits alone on a plain surface, painted with thick, expressive brushwork",
+        "round2": "A Post-Impressionist still life that transforms a mundane discarded object into a subject of existential weight",
+        "round3": "This humble subject sparked a famous 20th-century philosophical debate about meaning, labor, and what art reveals",
+        "round4": "Painted by a Dutch artist while living in Paris; the objects depicted were reportedly his own personal belongings",
+        "round5": "Artist initials: V.V.G."
+      },
+      "difficulty": "artHistorian"
+    },
+    {
+      "id": 14,
+      "date": "2026-05-18",
+      "paintingId": 114,
+      "title": "The Horse Fair",
+      "artist": "Rosa Bonheur",
+      "year": 1852,
+      "museum": "The Metropolitan Museum of Art, New York",
+      "museumUrl": "https://www.metmuseum.org/art/collection/search/435702",
+      "imageUrl": "/images/435702.jpg",
+      "dominantColors": [
+        "#443c2f",
+        "#bca67c",
+        "#8b7248",
+        "#8c8985",
+        "#a19d8d"
+      ],
+      "funFact": "To research this painting, Bonheur spent 18 months attending the Paris horse market every week — dressed as a man, because women were not allowed to attend unaccompanied. She had to apply to the Paris police for special dispensation to wear trousers in public, which she renewed every six months.",
+      "curatorsNote": "When exhibited at the Paris Salon of 1853, The Horse Fair was an immediate sensation. It was sent on a triumphant tour of Britain and the United States, and Queen Victoria requested a private viewing. At over 8 × 16 feet, it is the largest painting Bonheur ever completed.",
+      "clues": {
+        "round1": "Powerful horses rear and surge in a churning mass of bodies, manes, and dust against a stormy sky",
+        "round2": "A monumental Realist painting giving working animals the dramatic scale and grandeur traditionally reserved for history painting",
+        "round3": "Exhibited at the Paris Salon of 1853 to immediate acclaim; the artist attended her subject for 18 months disguised as a man",
+        "round4": "Painted by a celebrated French female artist who was one of the most acclaimed painters in mid-19th century Europe",
+        "round5": "Artist initials: R.B."
+      },
+      "difficulty": "hard"
+    },
+    {
+      "id": 15,
+      "date": "2026-05-19",
+      "paintingId": 115,
+      "title": "The Gulf Stream",
+      "artist": "Winslow Homer",
+      "year": 1899,
+      "museum": "The Metropolitan Museum of Art, New York",
+      "museumUrl": "https://www.metmuseum.org/art/collection/search/11122",
+      "imageUrl": "/images/11122.jpg",
+      "dominantColors": [
+        "#202d2b",
+        "#a99a7b",
+        "#7d745f",
+        "#8ca08e",
+        "#7f929c"
+      ],
+      "funFact": "When buyers asked Homer to change the ending — to add a visible rescue ship — he refused absolutely. A ship IS faintly visible on the horizon, but whether it will arrive in time is left completely open. Homer's reply: 'The subject is the gulf stream and the small figure — that is all.'",
+      "curatorsNote": "Homer exhibited this painting in 1900, at the height of Jim Crow-era racial violence in America. The subject — a Black man adrift and abandoned at sea, surrounded by sharks — was widely understood as a comment on the condition of Black Americans. Homer refused all interviews about its meaning.",
+      "clues": {
+        "round1": "A lone figure lies across the deck of a small, damaged boat surrounded by a dark sea, circling sharks, and a distant waterspout",
+        "round2": "An American Realist painting combining raw naturalism with powerful social undertones about survival, fate, and abandonment",
+        "round3": "Painted in 1899 and exhibited in 1900 at a time of intense racial violence in the United States; the artist refused to explain it",
+        "round4": "Painted by a major American artist known for seascapes and unflinching scenes of humans confronting the forces of nature",
+        "round5": "Artist initials: W.H."
+      },
+      "difficulty": "artHistorian"
+    },
+    {
+      "id": 16,
+      "date": "2026-05-20",
+      "paintingId": 116,
+      "title": "Fur Traders Descending the Missouri",
+      "artist": "George Caleb Bingham",
+      "year": 1845,
+      "museum": "The Metropolitan Museum of Art, New York",
+      "museumUrl": "https://www.metmuseum.org/art/collection/search/10159",
+      "imageUrl": "/images/10159.jpg",
+      "dominantColors": [
+        "#e5cfb5",
+        "#391d11",
+        "#8e7146",
+        "#784722",
+        "#a8906e"
+      ],
+      "funFact": "This painting was originally exhibited at the American Art-Union in 1845 under the title 'French Trader and Half-Breed Son.' The Met renamed it Fur Traders Descending the Missouri when it acquired the work. The mysterious black animal tied to the bow has been debated for 175 years — most likely a fox cub or a young bear.",
+      "curatorsNote": "Bingham creates an uncanny, dreamlike mood entirely at odds with the rugged frontier subject: the two figures are utterly motionless, drifting on a glassy, mirror-smooth river, their reflections dissolving below them. The golden haze gives the American wilderness an almost mythological, timeless quality.",
+      "clues": {
+        "round1": "Two figures drift in perfect stillness on a glassy river at dawn, with a mysterious dark animal tied at the front of their canoe",
+        "round2": "An American Romantic painting of frontier life with an unusual, dreamlike stillness and a golden, almost mythological atmosphere",
+        "round3": "Painted in 1845 and first exhibited under a different, racially charged title; it helped define the visual mythology of the American West",
+        "round4": "Painted by an American artist from Missouri who devoted his career to documenting life on the Mississippi and Missouri Rivers",
+        "round5": "Artist initials: G.C.B."
+      },
+      "difficulty": "artHistorian"
+    },
+    {
+      "id": 17,
+      "date": "2026-05-21",
+      "paintingId": 117,
+      "title": "The Rocky Mountains, Lander's Peak",
+      "artist": "Albert Bierstadt",
+      "year": 1863,
+      "museum": "The Metropolitan Museum of Art, New York",
+      "museumUrl": "https://www.metmuseum.org/art/collection/search/10154",
+      "imageUrl": "/images/10154.jpg",
+      "dominantColors": [
+        "#4b452a",
+        "#d1d6d3",
+        "#a6c2ce",
+        "#939da4",
+        "#9c7f57"
+      ],
+      "funFact": "Bierstadt joined a government survey expedition to Wyoming in 1859, gathering sketches that would fuel paintings for a decade. When this canvas — over 10 feet wide — was exhibited in New York, crowds paid admission to view it. Critics compared the experience to watching a theatrical spectacle.",
+      "curatorsNote": "The painting was often displayed in darkened rooms with theatrical lighting to maximize the drama of its glowing peaks — essentially a cinematic experience engineered a century before cinema. Bierstadt deliberately made the mountains taller and the light more golden than any photograph could capture.",
+      "clues": {
+        "round1": "Impossibly tall, snow-capped peaks rise above a sunlit valley, with a waterfall and a Native American encampment in the foreground",
+        "round2": "A monumental Hudson River School landscape in the Luminist tradition, celebrating the sublime grandeur of untamed American wilderness",
+        "round3": "Painted in 1863 based on sketches made during a government survey expedition to the Wind River Mountains of Wyoming in 1859",
+        "round4": "Painted by a German-American artist who became the preeminent painter of the American West in the 19th century",
+        "round5": "Artist initials: A.B."
+      },
+      "difficulty": "artHistorian"
+    },
+    {
+      "id": 18,
+      "date": "2026-05-22",
+      "paintingId": 118,
+      "title": "Snap the Whip",
+      "artist": "Winslow Homer",
+      "year": 1872,
+      "museum": "The Metropolitan Museum of Art, New York",
+      "museumUrl": "https://www.metmuseum.org/art/collection/search/11140",
+      "imageUrl": "/images/11140.jpg",
+      "dominantColors": [
+        "#4b432b",
+        "#8e7c61",
+        "#ba9e7f",
+        "#9da58f",
+        "#819895"
+      ],
+      "funFact": "Homer painted this scene just seven years after the end of the Civil War, and its images of carefree rural childhood had deep emotional resonance for a nation trying to heal. He later made a widely circulated wood engraving of the same composition for Harper's Weekly, giving the image mass distribution across the country.",
+      "curatorsNote": "The one-room schoolhouse in the background was a powerful symbol of democratic values and equal opportunity in the postwar United States. Homer sets the exuberant game in the foreground against this emblem of civic order — childhood energy held gently in check by the institutions of a recovering republic.",
+      "clues": {
+        "round1": "A line of barefoot boys in suspenders plays a running game in a sunlit meadow, a small white schoolhouse visible behind them",
+        "round2": "An American Realist painting celebrated for its direct, unsentimental observation of rural childhood in the years after the Civil War",
+        "round3": "Painted in 1872, seven years after the end of the Civil War; images of innocent childhood carried particular weight for a nation healing from trauma",
+        "round4": "Painted by an American artist who was also a celebrated illustrator for Harper's Weekly, giving his images a national audience",
+        "round5": "Artist initials: W.H."
+      },
+      "difficulty": "artHistorian"
+    },
+    {
+      "id": 19,
+      "date": "2026-05-23",
+      "paintingId": 119,
+      "title": "Young Woman with a Water Pitcher",
+      "artist": "Johannes Vermeer",
+      "year": 1662,
+      "museum": "The Metropolitan Museum of Art, New York",
+      "museumUrl": "https://www.metmuseum.org/art/collection/search/437881",
+      "imageUrl": "/images/437881.jpg",
+      "dominantColors": [
+        "#413e37",
+        "#877e6c",
+        "#b9a086",
+        "#97999c",
+        "#a3a4a0"
+      ],
+      "funFact": "Vermeer's entire authenticated output is just 34 to 36 paintings across roughly 20 years of work — fewer than Van Gogh painted in a single month. He worked slowly, sold through a single dealer in Delft, and died in 1675 leaving 11 children and a mountain of debt. He was largely forgotten until rediscovered in the 1860s.",
+      "curatorsNote": "X-ray analysis of this painting revealed that Vermeer originally included a map on the back wall and a jewelry box on the table, then removed both to simplify the composition. The woman is shown opening a window — a recurring Vermeer motif — to let in the cool morning light.",
+      "clues": {
+        "round1": "A woman in a white headdress leans gently toward a window, morning light falling softly across her face and linen clothing",
+        "round2": "A Dutch Golden Age interior scene — intimate and perfectly still — demonstrating the artist's unparalleled mastery of natural light on everyday surfaces",
+        "round3": "Painted around 1662 by a Delft master who produced only 34–36 known works in his entire career and died leaving his family in debt",
+        "round4": "Painted by a 17th-century Dutch artist who was almost entirely forgotten after his death and rediscovered by art historians in the 1860s",
+        "round5": "Artist initials: J.V."
+      },
+      "difficulty": "hard"
+    },
+    {
+      "id": 20,
+      "date": "2026-05-24",
+      "paintingId": 120,
+      "title": "A Goldsmith in his Shop",
+      "artist": "Petrus Christus",
+      "year": 1449,
+      "museum": "The Metropolitan Museum of Art, New York",
+      "museumUrl": "https://www.metmuseum.org/art/collection/search/459052",
+      "imageUrl": "/images/459052.jpg",
+      "dominantColors": [
+        "#3c281b",
+        "#ba956c",
+        "#8c5436",
+        "#949e7f",
+        "#9c8f96"
+      ],
+      "funFact": "This is one of the earliest known Western paintings to depict a scene of everyday commercial life as its primary subject — a radical choice in 1449. The 'goldsmith' shown may actually be Saint Eligius, patron saint of goldsmiths, depicted in secular clothing to blend religious subject matter with genre painting.",
+      "curatorsNote": "The small convex mirror in the lower right corner — a standard goldsmith's tool to watch the whole shop — reflects two elegantly dressed figures standing outside in the street. This device anticipates the famous convex mirror in Jan van Eyck's Arnolfini Portrait, though this painting was made 14 years earlier.",
+      "clues": {
+        "round1": "A craftsman behind a well-lit counter examines precious objects, surrounded by the tools, scales, and goods of his trade",
+        "round2": "A landmark Early Netherlandish painting — among the first Western works to give a scene of everyday commerce the full dignity of high art",
+        "round3": "Painted in 1449; the figure depicted may be Saint Eligius, patron of goldsmiths, shown in secular dress as a cunning devotional disguise",
+        "round4": "Painted by a 15th-century Flemish artist from Bruges, then the wealthiest trading city in northern Europe",
+        "round5": "Artist initials: P.C."
+      },
+      "difficulty": "artHistorian"
+    },
+    {
+      "id": 21,
+      "date": "2026-05-25",
+      "paintingId": 121,
+      "title": "Cypresses",
+      "artist": "Vincent van Gogh",
+      "year": 1889,
+      "museum": "The Metropolitan Museum of Art, New York",
+      "museumUrl": "https://www.metmuseum.org/art/collection/search/437980",
+      "imageUrl": "/images/437980.jpg",
+      "dominantColors": [
+        "#3d4d35",
+        "#c9c7a5",
+        "#91bfaa",
+        "#8f8651",
+        "#7aa1a3"
+      ],
+      "funFact": "Van Gogh wrote to his brother Theo about cypresses with unusual intensity: 'It astonishes me that they have not yet been done as I see them... beautiful as regards line and proportion, like an Egyptian obelisk. And the green has such a distinguished quality. It is a splash of black in a sunny landscape.' He wanted to dedicate an entire series to them.",
+      "curatorsNote": "Unlike the Wheat Field with Cypresses (also in the Met, painted the same month), this canvas places a single massive cypress at its center, filling almost the entire frame. The swirling treatment of the trunk and the turbulent stars in the upper right directly anticipate The Starry Night, painted weeks later.",
+      "clues": {
+        "round1": "A single massive dark tree, its form twisting upward like a flame, dominates the entire canvas against a swirling sky",
+        "round2": "A Post-Impressionist painting in which every brushstroke — sky, earth, and tree alike — follows the same restless, turbulent energy",
+        "round3": "Painted in June 1889 at an asylum in Provence, weeks before a more famous painting of a night sky over a village",
+        "round4": "Painted by a Dutch artist who called these trees 'as beautiful as an Egyptian obelisk' and planned a full series devoted to them",
+        "round5": "Artist initials: V.V.G."
+      },
+      "difficulty": "artHistorian"
     }
   ]
 }
